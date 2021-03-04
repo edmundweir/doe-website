@@ -1,0 +1,141 @@
+.cards {
+    padding: 4rem;
+    /* background: #fff; */
+  }
+  
+  h1 {
+    color: rgb(32, 27, 63);
+    align-self: center;
+    text-align: center;
+    height: 80px;
+    width: 480px;
+    padding-top: 1.6vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('/src/images/Button_Confirm.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position-x: center;
+  }
+  
+  .cards__container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    max-width: 1120px;
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .cards__wrapper {
+    position: relative;
+    margin: 50px 0 45px;
+  }
+  
+  .cards__items {
+    margin-bottom: 24px;
+  }
+  
+  .cards__item {
+    /* background: url('/src/images/Textbox1.png') center center/cover no-repeat; */
+    background-image: url('/src/images/Textbox1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 0.25   ;
+    display: flex;
+    flex: 1;
+    margin: 0 1rem;
+    border-radius: 10px;
+  }
+  
+  .cards__item__link {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+  }
+  
+  .cards__item__pic-wrap {
+    position: relative;
+    width: 100%;
+    padding-top: 67%;
+    overflow: hidden;
+  }
+  
+  .fade-img {
+    animation-name: fade-img;
+    animation-duration: 2s;
+  }
+  
+  .cards__item__pic-wrap::after {
+    content: attr(data-category);
+    position: absolute;
+    bottom: 0;
+    margin-left: 10%;
+    padding: 6px 8px;
+    max-width: calc((100%) - 60px);
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #1f98f4;
+    box-sizing: border-box;
+  }
+  
+  .cards__item__img {
+    padding-top: 2vh;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    width: 85%;
+    max-width: 85%;
+    height: 90%;
+    max-height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    object-fit: cover;
+    transition: all 0.2s linear;
+  }
+  
+  /* This makes it zoom in on hover: */
+  .cards__item__img:hover {
+    transform: scale(1.05);
+  }
+  
+  .cards__item__info {
+    padding: 20px 30px 30px;
+  }
+  
+  .cards__item__text {
+    color: #252e48;
+    font-size: 18px;
+    line-height: 24px;
+  }
+  
+   /* These @media rules set different parameters for different sizes: */
+  @media only screen and (min-width: 1200px) {
+    .content__blog__container {
+      width: 84%;
+    }
+  }
+  
+  @media only screen and (min-width: 1024px) {
+    .cards__items {
+      display: flex;
+    }
+  }
+  
+  @media only screen and (max-width: 1024px) {
+    .cards__item {
+      margin-bottom: 2rem;
+    }
+  }
