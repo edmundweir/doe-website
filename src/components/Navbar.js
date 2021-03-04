@@ -74,6 +74,9 @@ function Navbar() {
                                 Press Kit
                             </Link>
                         </li>
+                        <li>
+                            <img className='logo-header' src={Thumbnail} alt='No Image' width='80' height='80'/>
+                        </li>
                     </ul>
                     {/* {button && <Button buttonStyle='btn--outline'>SIGN UP</Button>} */}
                 </div>
