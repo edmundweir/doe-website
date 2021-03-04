@@ -6,7 +6,7 @@
 }
 
 .textbox-block {
-    opacity: 0.5
+    opacity: 0.85;
 }
 
 .textbox-heading {
@@ -76,7 +76,7 @@
     background-size: 100% 100%;
     background-repeat: repeat;
 
-    opacity: 0.5;
+    opacity: 0.85;
 }
 
 .textbox-center-block.textbox-vertical-block>* {
@@ -112,5 +112,4 @@ p {
     font-size: 3vh;
     line-height: 4.5vh;
     color: rgb(255, 255, 255);
-    opacity: 2;
 }
