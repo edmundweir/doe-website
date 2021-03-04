@@ -1,5 +1,4 @@
 import React from 'react';
-import { Button } from './Button';
 import './AnimatedBackground.css';
 import '../App.css';
 import Background from '../images/SatelliteEarth.gif';
