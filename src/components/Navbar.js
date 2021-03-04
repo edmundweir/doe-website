@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import './Navbar.css';
 import { Button } from './Button.js';
 import Thumbnail from '../images/DOE_Thumbnail.png';
+import Reg_Button from '../images/Button_Green.png';
 
 function Navbar() {
     // i do not yet know hot to add comments inside a <> fragment
@@ -48,6 +49,8 @@ function Navbar() {
                     <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
                         <img className='logo-header' src={Thumbnail} alt='No Image' width='80' height='80'/>
                     </Link>
+
+                    <img className='logo-header' src={Reg_Button} alt='No Image' width='80' height='80'/>
 
                     <div className='menu-icon' onClick={handleClick}>
                         <i className={click ? 'fas fa-times' : 'fas fa-bars'} /> 
