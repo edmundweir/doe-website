@@ -12,13 +12,13 @@ function Cards() {
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
                         <CardItem 
-                            src='/images/img-9.jpg'
+                            src='/images/DOE_Thumbnail.png'
                             text='Explore the hidden waterfall deep inside the Amazon Rainforest.'
                             label='Testing'
                             path='/services'
                         />
                         <CardItem 
-                            src='/images/img-2.jpg'
+                            src='/images/DOE_Thumbnail.png'
                             text='Travel through the islands of Bali in a private cruise.'
                             label='Player Profiles'
                             path='/services'
@@ -26,19 +26,19 @@ function Cards() {
                     </ul>
                     <ul className='cards__items'>
                         <CardItem 
-                            src='/images/img-3.jpg'
+                            src='/images/DOE_Thumbnail.png'
                             text='Set sail in the Atlantic Ocean visiting uncharted waters.'
                             label='Servers Online'
                             path='/services'
                         />
                         <CardItem 
-                            src='/images/img-4.jpg'
+                            src='/images/DOE_Thumbnail.png'
                             text='Experience football on an island in the middle of the Caspian Sea.'
                             label='Quests'
                             path='/services'
                         />
                         <CardItem 
-                            src='/images/img-8.jpg'
+                            src='/images/DOE_Thumbnail.png'
                             text='Ride through the Sahara Desert on a guided camel tour.'
                             label='Suggest Actions'
                             path='/services'
