@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/doe-website/static/css/main.91604814.chunk.css",
-    "main.js": "/doe-website/static/js/main.2dfe221d.chunk.js",
-    "main.js.map": "/doe-website/static/js/main.2dfe221d.chunk.js.map",
+    "main.js": "/doe-website/static/js/main.ee447a18.chunk.js",
+    "main.js.map": "/doe-website/static/js/main.ee447a18.chunk.js.map",
     "runtime-main.js": "/doe-website/static/js/runtime-main.c15e174e.js",
     "runtime-main.js.map": "/doe-website/static/js/runtime-main.c15e174e.js.map",
     "static/js/2.543f54b1.chunk.js": "/doe-website/static/js/2.543f54b1.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c15e174e.js",
     "static/js/2.543f54b1.chunk.js",
     "static/css/main.91604814.chunk.css",
-    "static/js/main.2dfe221d.chunk.js"
+    "static/js/main.ee447a18.chunk.js"
   ]
 }
