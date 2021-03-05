@@ -53,7 +53,7 @@
   height: 60px;
   width: 180px;
   background-image: url('/src/images/Button_Green.png');
-  opacity: 80%;
+  opacity: 0.85;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   align-items: center;
@@ -72,6 +72,7 @@
   text-align: center;
   padding-top: 1.7vh;
   height: 100%;
+  opacity: 0.85;
 }
 
 .nav-item:hover {
@@ -126,6 +127,7 @@
     font-size: 4vh;
     height: 90px;
     width: 300px;
+    opacity: 0.85;
   }
 
   .nav-links {
@@ -133,6 +135,7 @@
     padding: 1.7vh;
     width: 100%;
     display: table;
+    opacity: 0.85;
   }
 
   /*.nav-links:hover {
@@ -177,6 +180,7 @@
     padding: 14px 20px;
     border: 1px solid #fff;
     transition: all 0.3s ease-out;
+    opacity: 0.85;
   }
 
   .nav-links-mobile:hover {
