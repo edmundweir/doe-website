@@ -50,8 +50,6 @@ function Navbar() {
                         <img className='logo-header' src={Thumbnail} alt='No Image' width='80' height='80'/>
                     </Link>
 
-                    <img className='logo-header' src={Reg_Button} alt='No Image' width='80' height='80'/>
-
                     <div className='menu-icon' onClick={handleClick}>
                         <i className={click ? 'fas fa-times' : 'fas fa-bars'} /> 
                     </div>
@@ -61,6 +59,9 @@ function Navbar() {
                             <Link to='/mission' className='nav-links' onClick={closeMobileMenu}>
                                 Mission
                             </Link>
+                        </li>
+                        <li>
+                           <img className='logo-header' src={Reg_Button} alt='No Image' width='80' height='80'/>
                         </li>
                         <li className='nav-item'>
                             <Link to='/roadmap' className='nav-links' onClick={closeMobileMenu}>
