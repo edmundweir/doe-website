@@ -74,6 +74,7 @@
   text-align: center;
   padding-top: 1.7vh;
   height: 100%;
+  z-index: 200;
 }
 
 .nav-item:hover {
