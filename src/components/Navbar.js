@@ -60,9 +60,6 @@ function Navbar() {
                                 Mission
                             </Link>
                         </li>
-                        <li>
-                           <img className='logo-header' src={Reg_Button} alt='No Image' width='80' height='80'/>
-                        </li>
                         <li className='nav-item'>
                             <Link to='/roadmap' className='nav-links' onClick={closeMobileMenu}>
                                 Roadmap

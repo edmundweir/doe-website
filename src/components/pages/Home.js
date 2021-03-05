@@ -1,6 +1,8 @@
 import React from 'react';
 import '../../App.css';
-import HeroSection from '../HeroSection';
+import './Home.css';
+import Background from '../../images/SatelliteEarth.gif';
+import Logo from '../../images/DOE_TMP.gif';
 import Cards from '../Cards';
 import Footer from '../Footer';
 import Textbox from '../Textbox';
@@ -8,7 +10,11 @@ import Textbox from '../Textbox';
 function Home () {
     return (
         <>
-            <HeroSection />
+            <img className='background-animation' src={Background} alt='No Image' />
+            <div className="hero-section">
+                <img className='hero-logo' src={Logo} alt='Descendants Of Earth' />
+                <h2 className='tagline'>Climate action is a multiplayer game.</h2>
+            </div>
             <Cards />
 
             <Textbox>
