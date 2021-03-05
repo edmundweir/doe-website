@@ -7,6 +7,7 @@ import Mission from './components/pages/Mission';
 import Kickstarter from './components/pages/Kickstarter';
 import Roadmap from './components/pages/Roadmap';
 import PressKit from './components/pages/PressKit';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
             <Route path='/roadmap' component={Roadmap} />
             <Route path='/press-kit' component={PressKit} />
           </Switch>
+          <Footer />
         </Router>
     </div>
   );

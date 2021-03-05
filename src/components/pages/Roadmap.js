@@ -1,7 +1,6 @@
 import React from 'react';
 import './Roadmap.css';
 import '../../App.css';
-import Footer from '../Footer';
 import Textbox from '../Textbox';
 import Background from '../../images/SatelliteEarth.gif';
 
@@ -53,7 +52,6 @@ function Roadmap () {
                     </p>
                 </Textbox>             
             </div>        
-            <Footer />
         </>
     )
 }

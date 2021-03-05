@@ -1,7 +1,6 @@
 import React from 'react';
 import './Kickstarter.css';
 import '../../App.css';
-import Footer from '../Footer';
 import Textbox from '../Textbox';
 import Background from '../../images/SatelliteEarth.gif';
 
@@ -95,7 +94,6 @@ function Kickstarter () {
                     </p>
                 </Textbox>         
             </div>        
-            <Footer />
         </>
     )
 }

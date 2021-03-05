@@ -1,7 +1,6 @@
 import React from 'react';
 import './Mission.css';
 import '../../App.css';
-import Footer from '../Footer';
 import Textbox from '../Textbox';
 import Background from '../../images/SatelliteEarth.gif';
 
@@ -45,7 +44,6 @@ function Mission () {
                     </ol>
                 </Textbox>          
             </div>        
-            <Footer />
         </>
     )
 }

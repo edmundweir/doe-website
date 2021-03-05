@@ -4,7 +4,6 @@ import './Home.css';
 import Background from '../../images/SatelliteEarth.gif';
 import Logo from '../../images/DOE_TMP.gif';
 import Cards from '../Cards';
-import Footer from '../Footer';
 import Textbox from '../Textbox';
 
 function Home () {
@@ -33,7 +32,6 @@ function Home () {
                     We’re running out of time. Quick, sign up for access to the Time Pump!
                 </p>
             </Textbox>
-            <Footer />
         </>
     )
 }

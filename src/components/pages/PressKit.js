@@ -1,7 +1,6 @@
 import React from 'react';
 import './PressKit.css';
 import '../../App.css';
-import Footer from '../Footer';
 import Textbox from '../Textbox';
 import Background from '../../images/SatelliteEarth.gif';
 
@@ -19,7 +18,6 @@ function PressKit () {
                     </p>
                 </Textbox>        
             </div>        
-            <Footer />
         </>
     )
 }
