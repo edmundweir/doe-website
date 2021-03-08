@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import './Navbar.css';
 import { Button } from './Button.js';
 import Thumbnail from '../images/DOE_Thumbnail.png';
-import Reg_Button from '../images/Button_Green.png';
 
 function Navbar() {
     // i do not yet know hot to add comments inside a <> fragment

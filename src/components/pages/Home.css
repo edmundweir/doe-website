@@ -11,11 +11,11 @@
 .hero-logo {
     z-index: 1;
     display: block;
-    width: 80%;
+    width: 60%;
     height: auto;
     margin-top: 20vh;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
     align-items: center;
     border-radius: 5px;
     border-color: rgb(255, 0, 55);
@@ -42,4 +42,12 @@
     src:url(/src/fonts/Dragonslapper.ttf);
     font-style: normal;
     font-weight: 100;
+}
+
+@media screen and (max-width: 1000px) {
+
+    .hero-container .tagline {
+        font-size: 3vh;
+        width: 80%;
+    }
 }
