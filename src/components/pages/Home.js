@@ -5,6 +5,7 @@ import Background from '../../images/SatelliteEarth.gif';
 import Logo from '../../images/DOE_TMP.gif';
 import Cards from '../Cards';
 import Textbox from '../Textbox';
+import Titlebox from '../Titlebox';
 
 function Home () {
     return (
@@ -14,12 +15,11 @@ function Home () {
                 <img className='hero-logo' src={Logo} alt='Descendants Of Earth' />
                 <h2 className='tagline'>Climate action is a multiplayer game.</h2>
             </div>
-            <Cards />
 
             <Textbox>
-                <h1 className='textbox-heading'>
+                <h2 className='textbox-heading'>
                     Greetings Ancestor!
-                </h1><br />
+                </h2><br />
                 <p> We are your descendants from the year 2412 and we need your help to save life on Earth.
                 </p><br />
                 <p>
@@ -32,6 +32,12 @@ function Home () {
                     We’re running out of time. Quick, sign up for access to the Time Pump!
                 </p>
             </Textbox>
+
+            <Titlebox>
+                <h2>Development Updates</h2>
+            </Titlebox>
+
+            <Cards />
         </>
     )
 }

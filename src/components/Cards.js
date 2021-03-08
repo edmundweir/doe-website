@@ -8,7 +8,6 @@ import Thumbnail from '../images/DOE_Thumbnail.png';
 function Cards() {
     return (
         <div className='cards'>
-            <h1>Development Updates</h1>
             <div className='cards__container'>
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
