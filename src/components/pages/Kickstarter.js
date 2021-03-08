@@ -91,9 +91,9 @@ function Kickstarter () {
                         <br/><br/>
                         <strong>Carbon offsets:</strong> Purchased within the app to earn in-game resource rewards. Each purchase made will contribute to a tally of trees you have planted through a nonprofit partnership.
                         <br/><br/>
-                        <strong>In-game purchases:</strong>Through updates to the game we build out our virtual shopfront. In it players can buy special game contents, including outfits for their characters, access to new storylines and acceleration of the construction of important buildings which would otherwise take days or weeks (e.g. ‘pay $1 to instant-build your workshop and unlock new building options!’).
+                        <strong>In-game purchases:</strong> Through updates to the game we build out our virtual shopfront. In it players can buy special game contents, including outfits for their characters, access to new storylines and acceleration of the construction of important buildings which would otherwise take days or weeks (e.g. ‘pay $1 to instant-build your workshop and unlock new building options!’).
                         <br/><br/>
-                        <strong>Resource marketplace:</strong>If you want to spend money on your Descendants' wellbeing, that's great - except you won't buy those resources from us, you will buy them from other players through our resource marketplace. We'll take a cut, sure, but the rest goes directly to the player that sold you their hard-earned resources.
+                        <strong>Resource marketplace:</strong> If you want to spend money on your Descendants' wellbeing, that's great - except you won't buy those resources from us, you will buy them from other players through our resource marketplace. We'll take a cut, sure, but the rest goes directly to the player that sold you their hard-earned resources.
                     </p>
                 </Textbox>         
             </div>        
