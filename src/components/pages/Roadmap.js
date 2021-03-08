@@ -2,6 +2,7 @@ import React from 'react';
 import './Roadmap.css';
 import '../../App.css';
 import Textbox from '../Textbox';
+import Titlebox from '../Titlebox';
 import Background from '../../images/SatelliteEarth.gif';
 
 function Roadmap () {
@@ -9,7 +10,9 @@ function Roadmap () {
         <>
             <img className='background-animation' src={Background} alt='No Image' />
             <div className='page-container'>
-                <h1>Roadmap</h1>
+                <Titlebox>
+                    <h2>Press Kit</h2>
+                </Titlebox>
                 <Textbox>
                     <h2>Game Features (Current & Future)</h2>
                     <br />

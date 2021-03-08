@@ -2,6 +2,7 @@ import React from 'react';
 import './Mission.css';
 import '../../App.css';
 import Textbox from '../Textbox';
+import Titlebox from '../Titlebox';
 import Background from '../../images/SatelliteEarth.gif';
 
 function Mission () {
@@ -9,7 +10,9 @@ function Mission () {
         <>
             <img className='background-animation' src={Background} alt='No Image' />
             <div className='page-container'>
-                <h1>Mission</h1>
+                <Titlebox>
+                    <h2>Mission</h2>
+                </Titlebox>
                 <Textbox>
                     <h2>What can be done about climate change?</h2>
                     <br />

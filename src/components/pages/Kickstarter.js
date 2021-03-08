@@ -2,6 +2,7 @@ import React from 'react';
 import './Kickstarter.css';
 import '../../App.css';
 import Textbox from '../Textbox';
+import Titlebox from '../Titlebox';
 import Background from '../../images/SatelliteEarth.gif';
 
 function Kickstarter () {
@@ -9,7 +10,9 @@ function Kickstarter () {
         <>
             <img className='background-animation' src={Background} alt='No Image' />
             <div className='page-container'>
-                <h1>Kickstarter</h1>
+                <Titlebox>
+                    <h2>Kickstarter</h2>
+                </Titlebox>
                 <Textbox>
                     <p>
                     In May 2020, we are launching a crowdfunding campaign on Kickstarter to raise capital for improvements to the game. Crowdfunders can pay to reserve their profile name, access the alpha version, join our chatrooms and get limited edition merchandise.
