@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/doe-website/static/css/main.18f6f952.chunk.css",
-    "main.js": "/doe-website/static/js/main.371ad098.chunk.js",
-    "main.js.map": "/doe-website/static/js/main.371ad098.chunk.js.map",
+    "main.css": "/doe-website/static/css/main.82f4a286.chunk.css",
+    "main.js": "/doe-website/static/js/main.1f5cc88a.chunk.js",
+    "main.js.map": "/doe-website/static/js/main.1f5cc88a.chunk.js.map",
     "runtime-main.js": "/doe-website/static/js/runtime-main.c15e174e.js",
     "runtime-main.js.map": "/doe-website/static/js/runtime-main.c15e174e.js.map",
     "static/js/2.88c01ed1.chunk.js": "/doe-website/static/js/2.88c01ed1.chunk.js",
     "static/js/2.88c01ed1.chunk.js.map": "/doe-website/static/js/2.88c01ed1.chunk.js.map",
     "index.html": "/doe-website/index.html",
-    "static/css/main.18f6f952.chunk.css.map": "/doe-website/static/css/main.18f6f952.chunk.css.map",
+    "static/css/main.82f4a286.chunk.css.map": "/doe-website/static/css/main.82f4a286.chunk.css.map",
     "static/js/2.88c01ed1.chunk.js.LICENSE.txt": "/doe-website/static/js/2.88c01ed1.chunk.js.LICENSE.txt",
     "static/media/Apps-Trello-icon.80173746.png": "/doe-website/static/media/Apps-Trello-icon.80173746.png",
     "static/media/DOE_TMP.e1f16d1c.gif": "/doe-website/static/media/DOE_TMP.e1f16d1c.gif",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.c15e174e.js",
     "static/js/2.88c01ed1.chunk.js",
-    "static/css/main.18f6f952.chunk.css",
-    "static/js/main.371ad098.chunk.js"
+    "static/css/main.82f4a286.chunk.css",
+    "static/js/main.1f5cc88a.chunk.js"
   ]
 }
