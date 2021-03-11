@@ -2,8 +2,8 @@ import React from 'react'
 import CardItem from './CardItem'
 import './Cards.css'
 import Thumbnail from '../images/DOE_Thumbnail.png';
-
-// Decrease card transparency
+import GooglePlay from '../images/Google-Play-Rounded.png';
+import Trello from '../images/Apps-Trello-icon.png';
 
 function Cards() {
     return (
@@ -13,35 +13,24 @@ function Cards() {
                     <ul className='cards__items'>
                         <CardItem 
                             src={Thumbnail}
-                            text='Explore the hidden waterfall deep inside the Amazon Rainforest.'
-                            label='Testing'
-                            path='/services'
+                            text='Our new website is live!'
+                            label='Web Content'
+                            path='/'
                         />
                         <CardItem 
-                            src={Thumbnail}
-                            text='Travel through the islands of Bali in a private cruise.'
-                            label='Player Profiles'
-                            path='/services'
+                            src={Trello}
+                            text='Follow our development on Trello'
+                            label="What's next?"
+                            path='/'
                         />
                     </ul>
                     <ul className='cards__items'>
+                        
                         <CardItem 
-                            src={Thumbnail}
-                            text='Set sail in the Atlantic Ocean visiting uncharted waters.'
-                            label='Servers Online'
-                            path='/services'
-                        />
-                        <CardItem 
-                            src={Thumbnail}
-                            text='Experience football on an island in the middle of the Caspian Sea.'
-                            label='Quests'
-                            path='/services'
-                        />
-                        <CardItem 
-                            src={Thumbnail}
-                            text='Ride through the Sahara Desert on a guided camel tour.'
-                            label='Suggest Actions'
-                            path='/services'
+                            src={GooglePlay}
+                            text='Now testing on Google Play'
+                            label='Alpha Testing'
+                            path='/'
                         />
                     </ul>
                 </div>

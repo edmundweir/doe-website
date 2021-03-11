@@ -22,7 +22,7 @@
     margin-right: auto;
     margin-bottom: 10vh;
 
-    width: 60%;
+    width: 50%;
 
     opacity: 0.85;
 }
@@ -102,8 +102,7 @@
 }
 
 #bot-middle {
-    margin-top: 2px;
-    height: 32px;
+    height: 30px;
 }
 
 .titlebox-center-block .titlebox-vertical-block>* {
