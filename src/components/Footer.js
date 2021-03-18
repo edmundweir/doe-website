@@ -7,21 +7,10 @@ import Logo from '../images/DOE_Thumbnail.png';
 function Footer() {
     return (
         <div className='footer-container'>
-            <section className='footer-subscription'>
-                <p className='footer-subscription-heading'>
-                    Join our mailing list to get first access to Descendants Of Earth!
-                </p>
-                <p className='footer-subscription-text'>
-                    You can unsubscribe at any time.
-                </p>
-                <div className='input-areas'>
-                {/* NOTE: Wrapping the footer-input in a <form> means it will automatically submit if you hit enter */}
-                    <form>
-                        <input type='email' name='email' placeholder='Your Email' className='footer-input' />
-                        <Button buttonStyle='btn--outline'>Subscribe</Button>    
-                    </form>
-                </div>
-            </section>
+            <div class="ml-form-embed"
+                data-account="2999389:t0d2h5x4r6"
+                data-form="3753265:p7d3q7">
+            </div>
             <div className='footer-links'>
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
