@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/doe-website/static/css/main.a3a827de.chunk.css",
-    "main.js": "/doe-website/static/js/main.cccc7e40.chunk.js",
-    "main.js.map": "/doe-website/static/js/main.cccc7e40.chunk.js.map",
-    "runtime-main.js": "/doe-website/static/js/runtime-main.32e64442.js",
-    "runtime-main.js.map": "/doe-website/static/js/runtime-main.32e64442.js.map",
-    "static/js/2.97d82a03.chunk.js": "/doe-website/static/js/2.97d82a03.chunk.js",
-    "static/js/2.97d82a03.chunk.js.map": "/doe-website/static/js/2.97d82a03.chunk.js.map",
-    "index.html": "/doe-website/index.html",
-    "static/css/main.a3a827de.chunk.css.map": "/doe-website/static/css/main.a3a827de.chunk.css.map",
-    "static/js/2.97d82a03.chunk.js.LICENSE.txt": "/doe-website/static/js/2.97d82a03.chunk.js.LICENSE.txt",
-    "static/media/Apps-Trello-icon.80173746.png": "/doe-website/static/media/Apps-Trello-icon.80173746.png",
-    "static/media/DOE_TMP.e1f16d1c.gif": "/doe-website/static/media/DOE_TMP.e1f16d1c.gif",
-    "static/media/DOE_Thumbnail.bcab96f4.png": "/doe-website/static/media/DOE_Thumbnail.bcab96f4.png",
-    "static/media/Home.css": "/doe-website/static/media/Dragonslapper.739d3dc0.ttf",
-    "static/media/Google-Play-Rounded.3add8516.png": "/doe-website/static/media/Google-Play-Rounded.3add8516.png",
-    "static/media/App.css": "/doe-website/static/media/SatelliteEarth.e013daa9.gif"
+    "main.css": "/static/css/main.32ceffe6.chunk.css",
+    "main.js": "/static/js/main.627ec617.chunk.js",
+    "main.js.map": "/static/js/main.627ec617.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1b62cb5e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1b62cb5e.js.map",
+    "static/js/2.97d82a03.chunk.js": "/static/js/2.97d82a03.chunk.js",
+    "static/js/2.97d82a03.chunk.js.map": "/static/js/2.97d82a03.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.32ceffe6.chunk.css.map": "/static/css/main.32ceffe6.chunk.css.map",
+    "static/js/2.97d82a03.chunk.js.LICENSE.txt": "/static/js/2.97d82a03.chunk.js.LICENSE.txt",
+    "static/media/Apps-Trello-icon.80173746.png": "/static/media/Apps-Trello-icon.80173746.png",
+    "static/media/DOE_TMP.e1f16d1c.gif": "/static/media/DOE_TMP.e1f16d1c.gif",
+    "static/media/DOE_Thumbnail.bcab96f4.png": "/static/media/DOE_Thumbnail.bcab96f4.png",
+    "static/media/Home.css": "/static/media/Dragonslapper.739d3dc0.ttf",
+    "static/media/Google-Play-Rounded.3add8516.png": "/static/media/Google-Play-Rounded.3add8516.png",
+    "static/media/App.css": "/static/media/SatelliteEarth.e013daa9.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.32e64442.js",
+    "static/js/runtime-main.1b62cb5e.js",
     "static/js/2.97d82a03.chunk.js",
-    "static/css/main.a3a827de.chunk.css",
-    "static/js/main.cccc7e40.chunk.js"
+    "static/css/main.32ceffe6.chunk.css",
+    "static/js/main.627ec617.chunk.js"
   ]
 }
