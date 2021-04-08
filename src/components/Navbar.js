@@ -45,7 +45,7 @@ function Navbar() {
         <>
             <nav className='navbar'>
                 <div className='navbar-container'>
-                    <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+                    <Link to='/' className='navbar-logo' onClick={closeMobileMenu, scrollToTop}>
                         <img className='logo-header' src={Thumbnail} alt='No Image' width='80' height='80'/>
                     </Link>
 
@@ -55,22 +55,22 @@ function Navbar() {
 
                     <ul className={click ? 'nav-menu active' : 'nav-menu'}>                      
                         <li className='nav-item'>
-                            <Link to='/mission' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to='/mission' className='nav-links' onClick={closeMobileMenu, scrollToTop}>
                                 Mission
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/roadmap' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to='/roadmap' className='nav-links' onClick={closeMobileMenu, scrollToTop}>
                                 Roadmap
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/kickstarter' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to='/kickstarter' className='nav-links' onClick={closeMobileMenu, scrollToTop}>
                                 KickStarter
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/press-kit' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to='/press-kit' className='nav-links' onClick={closeMobileMenu, scrollToTop}>
                                 Press Kit
                             </Link>
                         </li>
@@ -80,6 +80,10 @@ function Navbar() {
             </nav>
         </>
     )
+}
+
+const scrollToTop = () => {
+    window.scrollTo({top: 0, left: 0, behavior: 'smooth' })
 }
 
 export default Navbar

@@ -15,16 +15,16 @@ function Footer() {
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
                         <h2>About Us</h2>
-                        <Link to='/'>Our Team</Link>
-                        <Link to='/'>Acknowledgements</Link>
+                        <Link to='/welcome-to-country' onClick={scrollToTop}>Welcome To Country</Link>
+                        <Link to='/' onClick={scrollToTop}>Our Team</Link>
                     </div>
                 </div>
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
                         <h2>Contact Us</h2>
-                        <Link to='/'>Contact</Link>
-                        <Link to='/'>Volunteers</Link>
-                        <Link to='/'>Sponsors</Link>
+                        <Link to='/contact' onClick={scrollToTop}>Contact</Link>
+                        <Link to='/' onClick={scrollToTop}>Volunteers</Link>
+                        <Link to='/' onClick={scrollToTop}>Sponsors</Link>
                     </div>
                 </div>
             </div> 
@@ -56,6 +56,10 @@ function Footer() {
             </section>       
         </div>
     )
+}
+
+const scrollToTop = () => {
+    window.scrollTo({top: 0, left: 0, behavior: 'smooth' })
 }
 
 export default Footer

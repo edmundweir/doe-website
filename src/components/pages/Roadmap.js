@@ -11,7 +11,7 @@ function Roadmap () {
             <img className='background-animation' src={Background} alt='No Image' />
             <div className='page-container'>
                 <Titlebox>
-                    <h2>Press Kit</h2>
+                    <h2>Road Map</h2>
                 </Titlebox>
                 <Textbox>
                     <h2>Game Features (Current & Future)</h2>

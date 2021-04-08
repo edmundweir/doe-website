@@ -1,0 +1,28 @@
+.contact-form {
+    font-family: 'Jura', sans-serif;
+    font-size: 3vh;
+    margin: 0;
+    padding: 0;
+}
+
+input, textarea {
+    font-family: 'Jura', sans-serif;
+    font-size: 3vh;
+    padding: 5px;
+    margin-bottom: 2vh;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.submit {
+    font-family: 'Jura', sans-serif;
+    font-size: 3vh;
+    text-align: center;
+    cursor: pointer;
+    background-color: #efff99;
+}
+
+.submit:hover {
+    opacity: 0.8;
+}
