@@ -23,27 +23,20 @@
 }
 
 h1 {
-    font-family: 'Jura', sans-serif;
     color: rgb(32, 27, 63);
+    font-family: 'Jura', sans-serif;
     align-self: center;
     text-align: center;
-    font-size: 5vh;
-    height: 100px;
-    width: 480px;
-    margin-bottom: 50vh;
     margin-left: auto;
     margin-right: auto;
-    background-image: url('/src/images/Button_Confirm.png');
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+    width: 80%;
     background-position-x: center;
-    margin-bottom: 5vh;
   }
 
 .page-container h2 {
     font-family: 'Jura', sans-serif;
     font-weight: 700;
-    font-size: 4vh;
+    font-size: 6vh;
     text-align: center;
 }
 

@@ -2,7 +2,7 @@ import React from 'react';
 import '../../App.css';
 import './Home.css';
 import Background from '../../images/SatelliteEarth.gif';
-import Logo from '../../images/DOE_TMP.gif';
+import Logo from '../../images/DOE-Logo-v6-2.gif';
 import Cards from '../Cards';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
@@ -13,7 +13,7 @@ function Home () {
             <img className='background-animation' src={Background} alt='No Image' />
             <div className="hero-section">
                 <img className='hero-logo' src={Logo} alt='Descendants Of Earth' />
-                <h2 className='tagline'>Climate action is a multiplayer game.</h2>
+                <h2 className='tagline'>♲   Climate action is a multiplayer game   ♲</h2>
             </div>
 
             <Textbox>

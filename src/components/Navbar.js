@@ -60,8 +60,8 @@ function Navbar() {
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/roadmap' className='nav-links' onClick={closeMobileMenu, scrollToTop}>
-                                Roadmap
+                            <Link to='/features' className='nav-links' onClick={closeMobileMenu, scrollToTop}>
+                                Features
                             </Link>
                         </li>
                         <li className='nav-item'>

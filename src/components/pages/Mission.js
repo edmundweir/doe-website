@@ -20,7 +20,7 @@ function Mission () {
                         More than 80% of Australians are worried about climate change, but don’t know how to make a real impact and feel helpless to go up against the mammoth fossil fuel industry and other polluters. 
                     </p> <br />
                     <p>
-                    Descendants of Earth is a mobile game that merges real world environmental action with post-apocalyptic gameplay. DoE makes it easy to take action on your own or cooperatively, and to have fun while you do it.
+                        Descendants of Earth is a mobile game that merges real world environmental action with climate survival gameplay. DOE makes it easy to take action on your own or cooperatively, and to have fun while you do it.
                     </p> 
                 </Textbox>
                 <Textbox>
@@ -30,14 +30,14 @@ function Mission () {
                         <li>A <strong>tool</strong> to help you fight climate change more effectively by providing you with potential actions and their material impacts.</li>
                         <li>A <strong>game</strong> to explore, compete in with your friends and feel a sense of achievement for your actions.</li>
                         <li>An <strong>organising platform</strong> for activists and climate-focused groups.</li>
-                        <li>A <strong>freely available</strong> app that lowers the barriers to entry for climate action.</li>
+                        <li>A <strong>freely available app</strong> that lowers the barriers to entry for climate action.</li>
                     </ol>
                 </Textbox>
                 <Textbox>
-                    <h2>How is DoE changing attitudes towards environmental action?</h2>
+                    <h2>How is DOE changing attitudes towards environmental action?</h2>
                     <br />
                     <p>
-                        Descendants of Earth fights environmental paralysis by: 
+                        Descendants of Earth fight environmental paralysis by: 
                     </p>
                     <ol>
                         <li>Connecting our actions today to their long-term, generational impacts (both positive & negative) through science-based storytelling.</li>

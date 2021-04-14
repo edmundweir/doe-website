@@ -23,8 +23,8 @@ function Footer() {
                     <div className='footer-link-items'>
                         <h2>Contact Us</h2>
                         <Link to='/contact' onClick={scrollToTop}>Contact</Link>
-                        <Link to='/' onClick={scrollToTop}>Volunteers</Link>
-                        <Link to='/' onClick={scrollToTop}>Sponsors</Link>
+                        <Link to='/volunteers' onClick={scrollToTop}>Volunteers</Link>
+                        <Link to='/sponsors' onClick={scrollToTop}>Sponsors</Link>
                     </div>
                 </div>
             </div> 

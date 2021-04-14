@@ -24,16 +24,24 @@
 
 h1 {
     color: rgb(32, 27, 63);
+    font-family: 'Jura', sans-serif;
     align-self: center;
     text-align: center;
-    height: 80px;
-    width: 480px;
-    padding-top: 1.6vh;
     margin-left: auto;
     margin-right: auto;
-    background-image: url('/src/images/Button_Confirm.png');
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+    width: 80%;
     background-position-x: center;
-    margin-bottom: 5vh;
+  }
+
+  h3 {
+    color: rgb(32, 27, 63);
+    font-family: 'Jura', sans-serif;
+    align-self: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 4vh;
+    font-weight: 500;
+    width: 100%;
+    background-position-x: center;
   }

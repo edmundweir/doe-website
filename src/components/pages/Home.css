@@ -32,7 +32,7 @@
     /* margin-top: -100px; */
     background-image: none;
     text-align: center;
-    font-family: dragonslapper;
+    font-family: coinage;
     font-size: 4vh;
 }
 
@@ -42,6 +42,13 @@
     src:url(/src/fonts/Dragonslapper.ttf);
     font-style: normal;
     font-weight: 100;
+}
+
+@font-face {
+    font-family: 'coinage';
+    src:url(/src/fonts/CoinageCapsKrugerGray.ttf);
+    font-style: normal;
+    font-weight: 300;
 }
 
 @media screen and (max-width: 1000px) {
