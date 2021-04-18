@@ -15,7 +15,7 @@ function Kickstarter () {
                 </Titlebox>
                 <Textbox>
                     <p>
-                    In May 2020, we are launching a crowdfunding campaign on Kickstarter to raise capital for improvements to the game. Crowdfunders can pay to reserve their profile name, access the alpha version, join our chatrooms and get limited edition merchandise.
+                    In May 2021, we are launching a crowdfunding campaign on Kickstarter to raise capital for improvements to the game. Crowdfunders can pay to reserve their profile name, access the alpha version, join our chatrooms and get limited edition merchandise.
                     </p> <br />
                     <p>
                     Through the crowdfunding campaign we will add new story content as ‘chapters’ in the wider arc. We will add new challenges for players to face, and an in-game map where players can post potential environmental actions in their local area, and where we can promote green businesses.

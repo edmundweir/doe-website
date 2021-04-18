@@ -1,5 +1,4 @@
 import React from 'react';
-import { Button } from './Button';
 import './Footer.css';
 import {Link} from 'react-router-dom';
 import Logo from '../images/DOE_Thumbnail.png';
@@ -14,15 +13,15 @@ function Footer() {
             <div className='footer-links'>
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
-                        <h2>About Us</h2>
+                        <h2>About</h2>
                         <Link to='/welcome-to-country' onClick={scrollToTop}>Welcome To Country</Link>
                         <Link to='/' onClick={scrollToTop}>Our Team</Link>
                     </div>
                 </div>
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
-                        <h2>Contact Us</h2>
-                        <Link to='/contact' onClick={scrollToTop}>Contact</Link>
+                        <h2>Contacts</h2>
+                        <Link to='/contact' onClick={scrollToTop}>Contact Form</Link>
                         <Link to='/volunteers' onClick={scrollToTop}>Volunteers</Link>
                         <Link to='/sponsors' onClick={scrollToTop}>Sponsors</Link>
                     </div>
@@ -31,14 +30,14 @@ function Footer() {
             <section className='social-media'>
                 <div className='social-media-wrap'>
                     <div className='footer-logo'>
-                        <Link to='/'>
+                        <Link to='/' onClick={scrollToTop}>
                             <img className='thumbnail-logo' src={Logo} alt='Descendants Of Earth'/>
                         </Link>
                     </div>
                     <small className='website-rights'>
                         Copyright © Descendants Of Earth 2021
                     </small>
-                    <div className='social-icons'>
+                    {/*<div className='social-icons'>
                         <Link className='social-icon-link facebook' to='/' target='_blank' aria-label='Facebook'>
                             <i className='fab fa-facebook-f'/>
                         </Link>
@@ -51,7 +50,7 @@ function Footer() {
                         <Link className='social-icon-link twitter' to='/' target='_blank' aria-label='Twitter'>
                             <i className='fab fa-twitter'/>
                         </Link>
-                    </div>
+                    </div>*/}
                 </div>
             </section>       
         </div>

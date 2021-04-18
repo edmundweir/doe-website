@@ -4,6 +4,7 @@ import './Cards.css'
 import Thumbnail from '../images/DOE_Thumbnail.png';
 import GooglePlay from '../images/Google-Play-Rounded.png';
 import Trello from '../images/Apps-Trello-icon.png';
+import Kickstarter from '../images/Kickstarter-Promo.png';
 
 function Cards() {
     return (
@@ -30,6 +31,12 @@ function Cards() {
                             src={GooglePlay}
                             text='Now testing on Google Play'
                             label='Alpha Testing'
+                            path='/'
+                        />
+                        <CardItem 
+                            src={Kickstarter}
+                            text='Launching next month!'
+                            label='Crowdfunding'
                             path='/'
                         />
                     </ul>
