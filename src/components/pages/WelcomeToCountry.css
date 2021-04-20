@@ -36,8 +36,6 @@ h1 {
   iframe {
     width: 560px;
     height: 315px;  
-    margin-left: 5vw;
-    margin-right: auto;
   }
 
   @media screen and (max-width: 1000px) {
