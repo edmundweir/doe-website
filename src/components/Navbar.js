@@ -1,7 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
-import { Button } from './Button.js';
 import Thumbnail from '../images/DOE_Thumbnail.png';
 
 function Navbar() {

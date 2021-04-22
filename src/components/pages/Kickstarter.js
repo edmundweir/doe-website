@@ -9,7 +9,7 @@ function Kickstarter () {
     return (
         <>
             <img className='background-animation' src={Background} alt='No Image' />
-            <div className='page-container'>
+            <div className='page-container'  onLoad={scrollToTop}>
                 <Titlebox>
                     <h2>Kickstarter</h2>
                 </Titlebox>
@@ -102,6 +102,10 @@ function Kickstarter () {
             </div>        
         </>
     )
+}
+
+const scrollToTop = () => {
+    window.scrollTo({top: 0, left: 0, behavior: 'smooth' })
 }
 
 export default Kickstarter;

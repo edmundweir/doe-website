@@ -16,13 +16,13 @@ function Cards() {
                             src={Thumbnail}
                             text='Our new website is live!'
                             label='Web Content'
-                            path='/'
+                            path='/updates-new-website'
                         />
                         <CardItem 
                             src={Trello}
                             text='Follow our development on Trello'
                             label="What's next?"
-                            path='/'
+                            path='/trello'
                         />
                     </ul>
                     <ul className='cards__items'>
@@ -31,13 +31,13 @@ function Cards() {
                             src={GooglePlay}
                             text='Now testing on Google Play'
                             label='Alpha Testing'
-                            path='/'
+                            path='/updates-google-play'
                         />
                         <CardItem 
                             src={Kickstarter}
                             text='Launching next month!'
                             label='Crowdfunding'
-                            path='/'
+                            path='/kickstarter'
                         />
                     </ul>
                 </div>

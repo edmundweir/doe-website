@@ -1,0 +1,34 @@
+.page-container {
+    height: fit-content;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2); */
+    object-fit: contain;
+    margin-top: 10vh;
+    margin-bottom: none;
+}
+
+.background-animation {
+    object-fit: cover;
+    width: 100%;
+    height: 120%;
+    position: fixed;
+    margin-top: -160px;
+    z-index: -1;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
+}
+
+h1 {
+    color: rgb(32, 27, 63);
+    font-family: 'Jura', sans-serif;
+    align-self: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-position-x: center;
+  }
