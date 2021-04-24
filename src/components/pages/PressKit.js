@@ -3,6 +3,7 @@ import './PressKit.css';
 import '../../App.css';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
+import Logo from '../../images/DOE-Logo-v6-2.gif';
 import Background from '../../images/SatelliteEarth.gif';
 
 function PressKit () {
@@ -17,8 +18,10 @@ function PressKit () {
                     <p>
                         <i>FOR EMBARGOED RELEASE: May 17, 2021.</i> 
                     </p> <br /> <br />
-                    <h1>Multiplayer environmental mobile game rewards players for real-world climate action </h1>
-                    <h3>Environmentalism meets survival simulator with world first in alternate reality gaming</h3>
+                    <img className='hero-logo' src={Logo} alt='Descendants Of Earth' />
+                    <br />
+                    <h1 className="press-kit-heading">Multiplayer environmental mobile game rewards players for real-world climate action </h1>
+                    <h3 className="press-kit-subheading">Environmentalism meets survival simulator with world first in alternate reality gaming</h3>
                     <br /> <br />
                     <p>
                         <strong>MELBOURNE, May 17, 2021 - Descendants of Earth</strong> launched their three-week Kickstarter crowdfunding campaign today for their upcoming dystopian climate-action mobile game. 
@@ -27,7 +30,7 @@ function PressKit () {
                         In order to change Earth’s timeline, they must take real-world environmental action and send their saved resources to their descendants. 
                     </p> <br />
                     <p>
-                        <i>“Descendants of Earth connects our actions today to their consequences hundreds of years from now, and shows us that the future is changeable,”</i> said co-founder Edmund Weir.
+                        “Descendants of Earth connects our actions today to their consequences hundreds of years from now, and shows us that the future is changeable,” said co-founder Edmund Weir.
                     </p> <br />
                     <p>
                         In the future, a team of scientists create a mysterious structure that pumps matter through time. 
@@ -62,6 +65,21 @@ function PressKit () {
                             Live game map connects players to geo-tagged action challenges and green businesses in their local area
                         </li>
                     </ul>
+                    <br />
+                    <center><p>###</p></center>
+                    <br />
+                    <h3 className="boilerplate">About Descendants Of Earth:</h3>
+                    <p>
+                        Descendants of Earth was founded in 2019 in Melbourne, Australia, by Edmund Weir and Natalia Shafa. 
+                        They are an international startup, made up of team members from Australia and the United States. 
+                        Their mission is to lower the barriers of entry to climate action by using gameplay to make action fun and accessible.
+                    </p> <br />
+                    <h3 className="boilerplate">Press Contact:</h3>
+                    <p>
+                        Natalia Shafa <br />
+                        contact@descendantsofEarth.com <br />
+                        https://www.DescendantsofEarth.com/press-kit 
+                    </p>
                 </Textbox>        
             </div>        
         </>

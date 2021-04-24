@@ -22,9 +22,21 @@
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
 }
 
-h1 {
+.hero-logo {
+  z-index: 1;
+  display: block;
+  width: 60%;
+  height: auto;
+  margin-left: 20%;
+  margin-right: 20%;
+  align-items: center;
+  margin-top: 0;
+}
+
+.press-kit-heading {
     color: rgb(32, 27, 63);
     font-family: 'Jura', sans-serif;
+    font-size: 6vh;
     align-self: center;
     text-align: center;
     margin-left: auto;
@@ -33,7 +45,7 @@ h1 {
     background-position-x: center;
   }
 
-  h3 {
+.press-kit-subheading {
     color: rgb(32, 27, 63);
     font-family: 'Jura', sans-serif;
     align-self: center;
@@ -44,4 +56,14 @@ h1 {
     font-weight: 500;
     width: 100%;
     background-position-x: center;
+  }
+
+  .boilerplate {
+    color: rgb(32, 27, 63);
+    font-family: 'Jura', sans-serif;
+    font-size: 3.5vh;
+    text-align: left;
+    align-self: left;
+    align-items: left;
+    margin: 0;
   }
