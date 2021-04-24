@@ -12,7 +12,7 @@ function Home () {
         <>
             <img className='background-animation' src={Background} alt='No Image' />
             <div className="hero-section">
-                <img className='hero-logo' src={Logo} alt='Descendants Of Earth' />
+                <img className='home-hero-logo' src={Logo} alt='Descendants Of Earth' />
                 <h2 className='tagline'>♲   Climate action is a multiplayer game   ♲</h2>
             </div>
 
