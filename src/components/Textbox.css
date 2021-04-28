@@ -6,20 +6,7 @@
 }
 
 .textbox-block {
-    opacity: 0.85;
-}
-
-.textbox-heading {
-    width: 100%;
-    height:auto;
-    background-image: none;
-    margin: 0;
-    padding: 0;
-    padding-top: -10vh;
-    text-align: center;
-    align-self: center;
-    margin-left: auto;
-    margin-right: auto;
+    opacity: 0.95;
 }
 
 .textbox-container {
@@ -72,11 +59,11 @@
 
     align-items: stretch;
 
-    background-image: url('/src/images/Textbox-Center.png');
+    background-image: url('/src/images/Textbox_V2/Textbox-Center.png');
     background-size: 100% 100%;
     background-repeat: repeat;
 
-    opacity: 0.85;
+    opacity: 0.95;
 }
 
 .textbox-center-block.textbox-vertical-block>* {
@@ -99,8 +86,13 @@
     padding: 16px;
 }
 
-.text-area {
-    width: 100%;
+#text-side-border {
+    width: 6px;
+    height: auto;
+}
+
+.textbox-area {
+    width: 10%; /* For some reason, this overlaps with the border when set to higher amount */
     height: 100%;
     text-overflow: wrap;
     padding: 2vh 4vw 2vh 4vw;
@@ -111,5 +103,5 @@ p {
     font-weight: regular;
     font-size: 3vh;
     line-height: 4.5vh;
-    color: rgb(38, 33, 43);
+    color: rgb(253, 241, 128);
 }

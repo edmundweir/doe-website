@@ -23,7 +23,7 @@
 }
 
 h1 {
-    color: rgb(32, 27, 63);
+    color: rgb(253, 241, 128);
     font-family: 'Jura', sans-serif;
     align-self: center;
     text-align: center;
@@ -54,6 +54,7 @@ Strong {
 
 .page-container li {
     font-family: 'Jura', sans-serif;
+    color: rgb(253, 241, 128);
     font-size: 3vh;
     line-height: 4.5vh;
     margin-left: 4vw;

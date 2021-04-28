@@ -15,14 +15,14 @@ function PressKit () {
                 </Titlebox>
                 <Textbox>
                     <p>
-                        The team at Descendants Of Earth wish to acknowledge the traditional owners of the land upon which this project was largely developed, specifically the Djadjawurung, Taungurong, Woiworung and Boonwurrung Nations. 
-                        We are humbled by their understanding of and continuing connection to land, culture and community.
+                        The team at Descendants Of Earth wish to acknowledge the traditional owners of the land upon which this project was largely developed, specifically the Djadjawurung, Taungurong, Woiworung and Boonwurrung Nations from the broader Kulin Alliance. 
+                        We are humbled by their understanding of and continuing connection to land, culture and community, and remember that sovereignty was neved ceded in Australia.
                     </p> <br />
                     <p>
-                        Indigenous knowledge is an essential component in transitioning Earth to a sustainable model of existence.
+                        Indigenous people have always been the original environmental protectors, and indigenous knowledge is an essential part of any sustainable future on Earth.
                     </p> <br />
                     <p>
-                        Part of the inspiration for Descendants Of Earth comes from the idea of 'Ratja Yaliyali' - the vine of love that stretches through time - which you can find described by Gawurra in the following video:  
+                        Part of the inspiration for Descendants Of Earth comes from the idea of 'Ratja Yaliyali' - the vine of love that stretches through time. You can find the concept of Ratja Yaliyali described by the artist Gawurra in the following video:  
                     </p> <br />
                     <center><iframe src="https://www.youtube.com/embed/CZn9qjZep8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
                     <br />

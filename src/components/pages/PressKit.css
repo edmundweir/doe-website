@@ -34,7 +34,7 @@
 }
 
 .press-kit-heading {
-    color: rgb(32, 27, 63);
+    color: rgb(253, 241, 128);
     font-family: 'Jura', sans-serif;
     font-size: 6vh;
     align-self: center;
@@ -46,7 +46,7 @@
   }
 
 .press-kit-subheading {
-    color: rgb(32, 27, 63);
+    color: rgb(253, 241, 128);
     font-family: 'Jura', sans-serif;
     align-self: center;
     text-align: center;
@@ -59,7 +59,7 @@
   }
 
   .boilerplate {
-    color: rgb(32, 27, 63);
+    color: rgb(253, 241, 128);
     font-family: 'Jura', sans-serif;
     font-size: 3.5vh;
     text-align: left;

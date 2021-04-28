@@ -14,21 +14,16 @@ function Mission () {
                     <h2>Mission</h2>
                 </Titlebox>
                 <Textbox>
-                    <h2>What can be done about climate change?</h2>
-                    <br />
-                    <p>
-                        More than 80% of Australians are worried about climate change, but don’t know how to make a real impact and feel helpless to go up against the mammoth fossil fuel industry and other polluters. 
-                    </p> <br />
-                    <p>
-                        Descendants of Earth is a mobile game that merges real world environmental action with climate survival gameplay. DOE makes it easy to take action on your own or cooperatively, and to have fun while you do it.
-                    </p> 
-                </Textbox>
-                <Textbox>
                     <h2>What are we building?</h2>
                     <br />
+                    <p>
+                        Descendants of Earth (DOE) is a mobile game that merges real world environmental action with climate survival gameplay. 
+                        DOE makes it easy to take action on your own or cooperatively, and to have fun while you do it. <br /><br />
+                        DOE is:
+                    </p>
                     <ol>
                         <li>A <strong>tool</strong> to help you fight climate change more effectively by providing you with potential actions and their material impacts.</li>
-                        <li>A <strong>game</strong> to explore, compete in with your friends and feel a sense of achievement for your actions.</li>
+                        <li>A <strong>game</strong> to explore, compete in with your friends and experience a sense of achievement for your actions.</li>
                         <li>An <strong>organising platform</strong> for activists and climate-focused groups.</li>
                         <li>A <strong>freely available app</strong> that lowers the barriers to entry for climate action.</li>
                     </ol>

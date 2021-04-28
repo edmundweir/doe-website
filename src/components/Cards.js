@@ -35,7 +35,7 @@ function Cards() {
                         />
                         <CardItem 
                             src={Kickstarter}
-                            text='Launching next month!'
+                            text='Campaign launching next month!'
                             label='Crowdfunding'
                             path='/kickstarter'
                         />

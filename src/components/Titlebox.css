@@ -24,7 +24,7 @@
 
     width: 50%;
 
-    opacity: 0.85;
+    opacity: 0.95;
 }
 
 .titlebox-vertical-block-top {
@@ -92,7 +92,7 @@
 
     align-items: stretch;
 
-    background-image: url('/src/images/Titlebox/Titlebox_Center.png');
+    background-image: url('/src/images/Titlebox_V2/Titlebox_Center.png');
     background-size: 100% 100%;
     background-repeat: repeat;
 }
@@ -126,7 +126,7 @@
 }
 
 #side-border {
-    width: 6px;
+    width: 4px;
     height: auto;
 }
 
@@ -142,7 +142,7 @@ h2 {
     font-weight: bolder;
     font-size: 4vh;
     line-height: 4.5vh;
-    color: rgb(38, 33, 43);
+    color: rgb(253, 241, 128);
     text-align: center;
     margin-top: -4px;
 

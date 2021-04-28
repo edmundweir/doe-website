@@ -39,7 +39,7 @@
   
   .cards__item {
     /* background: url('/src/images/Textbox1.png') center center/cover no-repeat; */
-    background-image: url('/src/images/Textbox1.png');
+    background-image: url('/src/images/Textbox2.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     opacity: 0.85;
@@ -99,7 +99,7 @@
     margin-top: auto;
     margin-bottom: auto;
     object-fit: cover;
-    width: 100%;
+    width: 90%;
     max-width: 100%;
     height: auto;
     padding: 30px;
@@ -116,8 +116,9 @@
   }
   
   .cards__item__text {
-    color: #252e48;
+    color: rgb(253, 241, 128);
     font-size: 18px;
+    font-family: Jura, sans-serif;
     line-height: 24px;
   }
   

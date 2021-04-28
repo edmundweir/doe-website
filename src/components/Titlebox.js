@@ -1,12 +1,12 @@
 import React from 'react';
 import './Titlebox.css';
-import TitleboxTopLeft from '../images/Titlebox/Titlebox_TopLeft.png';
-import TitleboxTopMiddle from '../images/Titlebox/Titlebox_TopMid.png';
-import TitleboxTopRight from '../images/Titlebox/Titlebox_TopRight.png';
-import TextboxBorder from '../images/Textbox-Border.png';
-import TitleboxBottomLeft from '../images/Titlebox/Titlebox_BotLeft.png';
-import TitleboxBottomMiddle from '../images/Titlebox/Titlebox_BotMid.png';
-import TitleboxBottomRight from '../images/Titlebox/Titlebox_BotRight.png';
+import TitleboxTopLeft from '../images/Titlebox_V2/Titlebox_TopLeft.png';
+import TitleboxTopMiddle from '../images/Titlebox_V2/Titlebox_TopMid.png';
+import TitleboxTopRight from '../images/Titlebox_V2/Titlebox_TopRight.png';
+import TextboxBorder from '../images/Titlebox_V2/Titlebox_Border.png';
+import TitleboxBottomLeft from '../images/Titlebox_V2/Titlebox_BotLeft.png';
+import TitleboxBottomMiddle from '../images/Titlebox_V2/Titlebox_BotMid.png';
+import TitleboxBottomRight from '../images/Titlebox_V2/Titlebox_BotRight.png';
 
 function Titlebox(props) {
     return (
