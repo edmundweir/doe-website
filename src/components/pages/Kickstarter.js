@@ -3,7 +3,7 @@ import './Kickstarter.css';
 import '../../App.css';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
-import Background from '../../images/SatelliteEarth.gif';
+import Background from '../../images/backgrounds/shot_litup1_crop.png';
 
 function Kickstarter () {
     return (
@@ -83,20 +83,19 @@ function Kickstarter () {
                     </p>
                 </Textbox>
                 <Textbox>
+                    <br />
                     <h2>Financing The Operation</h2>
                     <br />
                     <p>
-                        Once the full game is released it will be free to download.
+                        Once the full game is released it will be free to download. To make sure DOE can continue to grow over the long-term, we are building on the following revenue streams:
                         <br /><br />
-                        However, to make sure we can run our servers and continue to improve the game world, we are relying on the following revenue streams:
-                        <br /><br />
-                        <strong>Green business map & product list:</strong> By linking players to green product suppliers through our in-game action lists we earn an income from advertising. E.g. Under the ‘Install a solar panel’ action, the player can click ‘Buy Now for $99’ to be linked to an advertised seller.
+                        <strong>Green business map & product list:</strong> Linking players to local green businesses through an in-game map, and international green products through a digital shopfront. All resource savings and shipping costs and for the product are included alongside the purchase price.
                         <br/><br/>
-                        <strong>Carbon offsets:</strong> Purchased within the app to earn in-game resource rewards. Each purchase made will contribute to a tally of trees you have planted through a nonprofit partnership.
+                        <strong>Carbon offsets:</strong> Purchased within the app to earn in-game resource rewards. Each purchase made will contribute to a tally of trees you have planted under your account. Go and hang out with digital replicas of those trees in-game and explore what the life that has grown under their leaves. 
                         <br/><br/>
-                        <strong>In-game purchases:</strong> Through updates to the game we build out our virtual shopfront. In it players can buy special game contents, including outfits for their characters, access to new storylines and acceleration of the construction of important buildings which would otherwise take days or weeks (e.g. ‘pay $1 to instant-build your workshop and unlock new building options!’).
+                        <strong>Cosmetic items:</strong> Buy special game content from the Descendants, including outfits, quick access to different storylines and a construction accelerator.
                         <br/><br/>
-                        <strong>Resource marketplace:</strong> If you want to spend money on your Descendants' wellbeing, that's great - except you won't buy those resources from us, you will buy them from other players through our resource marketplace. We'll take a cut, sure, but the rest goes directly to the player that sold you their hard-earned resources.
+                        <strong>Resource marketplace:</strong> If you want to spend actual dollars to buy resources for your Descendants, that's great - except you won't buy those resources from us, you will buy them from other players through our resource marketplace. We'll take a cut, sure, but the rest goes directly to the player that sold you their hard-earned resources.
                     </p>
                 </Textbox>         
             </div>        

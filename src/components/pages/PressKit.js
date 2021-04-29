@@ -4,7 +4,7 @@ import '../../App.css';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
 import Logo from '../../images/DOE-Logo-v6-2.gif';
-import Background from '../../images/SatelliteEarth.gif';
+import Background from '../../images/backgrounds/shot_greenlight_crop.png';
 
 function PressKit () {
     return (

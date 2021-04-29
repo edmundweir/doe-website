@@ -3,7 +3,7 @@ import './Mission.css';
 import '../../App.css';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
-import Background from '../../images/SatelliteEarth.gif';
+import Background from '../../images//backgrounds/shot_aurora1_crop.png';
 
 function Mission () {
     return (
@@ -14,7 +14,7 @@ function Mission () {
                     <h2>Mission</h2>
                 </Titlebox>
                 <Textbox>
-                    <h2>What are we building?</h2>
+                    <h2>What is Descendants Of Earth?</h2>
                     <br />
                     <p>
                         Descendants of Earth (DOE) is a mobile game that merges real world environmental action with climate survival gameplay. 
@@ -29,17 +29,13 @@ function Mission () {
                     </ol>
                 </Textbox>
                 <Textbox>
-                    <h2>How is DOE changing attitudes towards environmental action?</h2>
+                    <h2>How does DOE change attitudes towards climate action?</h2>
                     <br />
-                    <p>
-                        Descendants of Earth fight environmental paralysis by: 
-                    </p>
-                    <ol>
-                        <li>Connecting our actions today to their long-term, generational impacts (both positive & negative) through science-based storytelling.</li>
-                        <li>Demonstrating the value of different environmental actions (in terms of energy, water and materials saved) so that players can make educated decisions on how to use their time and resources most effectively.</li>
-                        <li>Bringing players together so that they can engage in environmental action on a larger scale and forge a sense of community through cooperation.</li>
-                        <li>Engaging players of all ages to cultivate a culture of action and optimism toward our climate future.</li>
-                    </ol>
+                    <ul>
+                        <li>Connect your actions today to their long-term, generational impacts (both positive & negative) through storytelling based on the most up-to-date science.</li>
+                        <li>Find the value of different environmental actions (in terms of energy, water and materials saved) so you can make educated decisions on how to use your time and resources most effectively to combat climate change.</li>
+                        <li>Kick ass for the planet at scale and forge a sense of community while you do it by teaming up with mates new and old.</li>
+                    </ul>
                 </Textbox>          
             </div>        
         </>

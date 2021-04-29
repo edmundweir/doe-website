@@ -29,7 +29,7 @@ function Cards() {
                         
                         <CardItem 
                             src={GooglePlay}
-                            text='Now testing on Google Play'
+                            text='Now testing on Google Play, iOS coming soon!'
                             label='Alpha Testing'
                             path='/updates-google-play'
                         />

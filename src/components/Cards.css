@@ -26,6 +26,7 @@
     max-width: 1120px;
     width: 90%;
     margin: 0 auto;
+    margin-top: -12vh;
   }
   
   .cards__wrapper {
@@ -42,7 +43,7 @@
     background-image: url('/src/images/Textbox2.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    opacity: 0.85;
+    opacity: 0.95;
     display: flex;
     flex: 1;
     margin: 0 1rem;

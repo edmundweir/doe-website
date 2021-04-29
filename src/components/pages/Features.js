@@ -3,7 +3,7 @@ import './Features.css';
 import '../../App.css';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
-import Background from '../../images/SatelliteEarth.gif';
+import Background from '../../images/backgrounds/shot_dawnbreaks_crop.png';
 
 function Roadmap () {
     return (
