@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.5234cea9.chunk.css",
-    "main.js": "/static/js/main.7b35eede.chunk.js",
-    "main.js.map": "/static/js/main.7b35eede.chunk.js.map",
+    "main.css": "/static/css/main.914cade9.chunk.css",
+    "main.js": "/static/js/main.dd009948.chunk.js",
+    "main.js.map": "/static/js/main.dd009948.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1b62cb5e.js",
     "runtime-main.js.map": "/static/js/runtime-main.1b62cb5e.js.map",
     "static/js/2.c174be9e.chunk.js": "/static/js/2.c174be9e.chunk.js",
     "static/js/2.c174be9e.chunk.js.map": "/static/js/2.c174be9e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5234cea9.chunk.css.map": "/static/css/main.5234cea9.chunk.css.map",
+    "static/css/main.914cade9.chunk.css.map": "/static/css/main.914cade9.chunk.css.map",
     "static/js/2.c174be9e.chunk.js.LICENSE.txt": "/static/js/2.c174be9e.chunk.js.LICENSE.txt",
     "static/media/Apps-Trello-icon.80173746.png": "/static/media/Apps-Trello-icon.80173746.png",
     "static/media/Home.css": "/static/media/Dragonslapper.739d3dc0.ttf",
@@ -18,12 +18,16 @@
     "static/media/Gumtree.d6bc4e3e.jpg": "/static/media/Gumtree.d6bc4e3e.jpg",
     "static/media/Kickstarter-Promo.8daec649.png": "/static/media/Kickstarter-Promo.8daec649.png",
     "static/media/App.css": "/static/media/SatelliteEarth.e013daa9.gif",
-    "static/media/Cards.css": "/static/media/Textbox2.a3daf8bf.png"
+    "static/media/Cards.css": "/static/media/Textbox2.a3daf8bf.png",
+    "static/media/shot_aurora1_crop.15eb6196.png": "/static/media/shot_aurora1_crop.15eb6196.png",
+    "static/media/shot_dawnbreaks_crop.b1a7b1af.png": "/static/media/shot_dawnbreaks_crop.b1a7b1af.png",
+    "static/media/shot_greenlight_crop.022a3e09.png": "/static/media/shot_greenlight_crop.022a3e09.png",
+    "static/media/shot_litup1_crop.993525f3.png": "/static/media/shot_litup1_crop.993525f3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1b62cb5e.js",
     "static/js/2.c174be9e.chunk.js",
-    "static/css/main.5234cea9.chunk.css",
-    "static/js/main.7b35eede.chunk.js"
+    "static/css/main.914cade9.chunk.css",
+    "static/js/main.dd009948.chunk.js"
   ]
 }
