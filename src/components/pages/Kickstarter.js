@@ -11,7 +11,7 @@ function Kickstarter () {
             <img className='background-animation' src={Background} alt='No Image' />
             <div className='page-container'  onLoad={scrollToTop}>
                 <Titlebox>
-                    <h2>Kickstarter</h2>
+                    <h2 className='titlebox-text'>Kickstarter</h2>
                 </Titlebox>
                 <Textbox>
                     <p>

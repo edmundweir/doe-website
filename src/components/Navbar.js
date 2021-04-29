@@ -54,22 +54,22 @@ function Navbar() {
 
                     <ul className={click ? 'nav-menu active' : 'nav-menu'}>                      
                         <li className='nav-item'>
-                            <Link to='/mission' className='nav-links' onClick={closeMobileMenu, scrollToTop}>
+                            <Link to='/mission' className='nav-links' onClick={scrollToTop, closeMobileMenu}>
                                 Mission
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/features' className='nav-links' onClick={closeMobileMenu, scrollToTop}>
+                            <Link to='/features' className='nav-links' onClick={scrollToTop, closeMobileMenu}>
                                 Features
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/kickstarter' className='nav-links' onClick={closeMobileMenu, scrollToTop}>
+                            <Link to='/kickstarter' className='nav-links' onClick={scrollToTop, closeMobileMenu}>
                                 KickStarter
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/press-kit' className='nav-links' onClick={closeMobileMenu, scrollToTop}>
+                            <Link to='/press-kit' className='nav-links' onClick={scrollToTop, closeMobileMenu}>
                                 Press Kit
                             </Link>
                         </li>
