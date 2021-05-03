@@ -14,6 +14,9 @@ function Mission () {
                     <h2>Mission</h2>
                 </Titlebox>
                 <Textbox>
+                    <center><h1 className="mission-statement">Our mission is to make environmental action fun and accessible in order to reach the critical mass of participation needed to prevent irreversible climate change and repair Earth’s ecosystems.</h1></center>
+                </Textbox>
+                <Textbox>
                     <h2>What is Descendants Of Earth?</h2>
                     <br />
                     <p>

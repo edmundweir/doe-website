@@ -37,6 +37,7 @@
     color: rgb(253, 241, 128);
     font-family: 'Jura', sans-serif;
     font-size: 6vh;
+    line-height: 6.6vh;
     align-self: center;
     text-align: center;
     margin-left: auto;
@@ -66,4 +67,18 @@
     align-self: left;
     align-items: left;
     margin: 0;
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .press-kit-heading {
+      font-size: 4vh;
+      line-height: 4.5vh;
+      width: 100%;
+    }
+  
+  .press-kit-subheading {
+      font-size: 3.6vh;
+      line-height: 4vh;
+      width: 100%;
+    }
   }

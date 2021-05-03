@@ -16,7 +16,7 @@ function PressKit () {
                 <Textbox>
                     <p>
                         The team at Descendants Of Earth wish to acknowledge the traditional owners of the land upon which this project was largely developed, specifically the Djadjawurung, Taungurong, Woiworung and Boonwurrung Nations from the broader Kulin Alliance. 
-                        We are humbled by their understanding of and continuing connection to land, culture and community, and remember that sovereignty was neved ceded in Australia.
+                        We are humbled by their understanding of and continuing connection to the land, and remember that sovereignty was neved ceded in Australia.
                     </p> <br />
                     <p>
                         Indigenous people have always been the original environmental protectors, and indigenous knowledge is an essential part of any sustainable future on Earth.

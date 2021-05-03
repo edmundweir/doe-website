@@ -14,23 +14,23 @@ function Footer() {
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
                         <h2>About</h2>
-                        <Link to='/welcome-to-country' onClick={scrollToTop}>Welcome To Country</Link>
-                        <Link to='/' onClick={scrollToTop}>Our Team</Link>
+                        <Link onClick={scrollToTop} to='/welcome-to-country' >Welcome To Country</Link>
+                        <Link onClick={scrollToTop} to='/the-team' >The Team</Link>
                     </div>
                 </div>
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
                         <h2>Contacts</h2>
-                        <Link to='/contact' onClick={scrollToTop}>Contact Form</Link>
-                        <Link to='/volunteers' onClick={scrollToTop}>Volunteers</Link>
-                        <Link to='/sponsors' onClick={scrollToTop}>Sponsors</Link>
+                        <Link onClick={scrollToTop} to='/contact' >Contact Form</Link>
+                        <Link onClick={scrollToTop} to='/volunteers' >Volunteers</Link>
+                        <Link onClick={scrollToTop} to='/sponsors' >Sponsors</Link>
                     </div>
                 </div>
             </div> 
             <section className='social-media'>
                 <div className='social-media-wrap'>
                     <div className='footer-logo'>
-                        <Link to='/' onClick={scrollToTop}>
+                        <Link onClick={scrollToTop} to='/' >
                             <img className='thumbnail-logo' src={Logo} alt='Descendants Of Earth'/>
                         </Link>
                     </div>

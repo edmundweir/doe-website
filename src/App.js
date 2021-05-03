@@ -11,6 +11,7 @@ import WelcomeToCountry from './components/pages/WelcomeToCountry';
 import Contact from './components/pages/Contact';
 import Volunteers from './components/pages/Volunteers';
 import Sponsors from './components/pages/Sponsors';
+import TheTeam from './components/pages/TheTeam';
 import UpdatesNewWebsite from './components/pages/updates/NewWebsite';
 import UpdatesGooglePlay from './components/pages/updates/GooglePlay';
 import Footer from './components/Footer';
@@ -31,6 +32,7 @@ function App() {
             <Route path='/contact' component={Contact} />
             <Route path='/volunteers' component={Volunteers} />
             <Route path='/sponsors' component={Sponsors} />
+            <Route path='/the-team' component={TheTeam} />
             <Route path='/trello' component={() => { 
               window.open('https://trello.com/b/pNT6IwgE/descendants-of-earth', '_blank');
               window.location.assign('https://descendantsofearth.com');
