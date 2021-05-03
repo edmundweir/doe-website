@@ -1,33 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea0cb626.chunk.css",
-    "main.js": "/static/js/main.d6623169.chunk.js",
-    "main.js.map": "/static/js/main.d6623169.chunk.js.map",
+    "main.css": "/static/css/main.3d232cf2.chunk.css",
+    "main.js": "/static/js/main.d8872530.chunk.js",
+    "main.js.map": "/static/js/main.d8872530.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1b62cb5e.js",
     "runtime-main.js.map": "/static/js/runtime-main.1b62cb5e.js.map",
-    "static/js/2.c174be9e.chunk.js": "/static/js/2.c174be9e.chunk.js",
-    "static/js/2.c174be9e.chunk.js.map": "/static/js/2.c174be9e.chunk.js.map",
+    "static/js/2.a575e823.chunk.js": "/static/js/2.a575e823.chunk.js",
+    "static/js/2.a575e823.chunk.js.map": "/static/js/2.a575e823.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ea0cb626.chunk.css.map": "/static/css/main.ea0cb626.chunk.css.map",
-    "static/js/2.c174be9e.chunk.js.LICENSE.txt": "/static/js/2.c174be9e.chunk.js.LICENSE.txt",
+    "static/css/main.3d232cf2.chunk.css.map": "/static/css/main.3d232cf2.chunk.css.map",
+    "static/js/2.a575e823.chunk.js.LICENSE.txt": "/static/js/2.a575e823.chunk.js.LICENSE.txt",
     "static/media/Apps-Trello-icon.80173746.png": "/static/media/Apps-Trello-icon.80173746.png",
     "static/media/Home.css": "/static/media/Dragonslapper.739d3dc0.ttf",
     "static/media/DOE-Logo-v6-2.121844df.gif": "/static/media/DOE-Logo-v6-2.121844df.gif",
     "static/media/DOE_Thumbnail.bcab96f4.png": "/static/media/DOE_Thumbnail.bcab96f4.png",
     "static/media/Google-Play-Rounded.3add8516.png": "/static/media/Google-Play-Rounded.3add8516.png",
     "static/media/Gumtree.d6bc4e3e.jpg": "/static/media/Gumtree.d6bc4e3e.jpg",
-    "static/media/Kickstarter-Promo.8daec649.png": "/static/media/Kickstarter-Promo.8daec649.png",
+    "static/media/Kickstarter-Promo.4f10072d.png": "/static/media/Kickstarter-Promo.4f10072d.png",
     "static/media/App.css": "/static/media/SatelliteEarth.e013daa9.gif",
     "static/media/Cards.css": "/static/media/Textbox2.a3daf8bf.png",
     "static/media/shot_aurora1_crop.15eb6196.png": "/static/media/shot_aurora1_crop.15eb6196.png",
+    "static/media/shot_aurora2_crop.69e0fe25.png": "/static/media/shot_aurora2_crop.69e0fe25.png",
     "static/media/shot_dawnbreaks_crop.b1a7b1af.png": "/static/media/shot_dawnbreaks_crop.b1a7b1af.png",
     "static/media/shot_greenlight_crop.022a3e09.png": "/static/media/shot_greenlight_crop.022a3e09.png",
     "static/media/shot_litup1_crop.993525f3.png": "/static/media/shot_litup1_crop.993525f3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1b62cb5e.js",
-    "static/js/2.c174be9e.chunk.js",
-    "static/css/main.ea0cb626.chunk.css",
-    "static/js/main.d6623169.chunk.js"
+    "static/js/2.a575e823.chunk.js",
+    "static/css/main.3d232cf2.chunk.css",
+    "static/js/main.d8872530.chunk.js"
   ]
 }
