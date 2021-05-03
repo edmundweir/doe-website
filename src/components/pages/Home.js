@@ -29,7 +29,7 @@ function Home () {
                     We have been constructing a Time Pump that can be used to send resources saved through real environmental action into the future to help us regenerate the planet.
                 </p><br />
                 <p>
-                    We are running out of time. Quick, sign up for access to the Time Pump when it goes live!
+                    Quick, sign up for access to the Time Pump when it goes live!
                 </p>
             </Textbox>
 

@@ -81,4 +81,10 @@
       line-height: 4vh;
       width: 100%;
     }
+
+    #page-title {
+      font-size: 3.6vh;
+      line-height: 4vh;
+      width: 100%;
+    }
   }

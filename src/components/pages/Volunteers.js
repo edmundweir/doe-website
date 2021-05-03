@@ -11,7 +11,7 @@ function Volunteers () {
             <img className='background-animation' src={Background} alt='No Image' />
             <div className='page-container'>
                 <Titlebox>
-                    <h2 className="titlebox">Volunteers</h2>
+                    <h2 className="titlebox" id="page-title">Volunteers</h2>
                 </Titlebox>
                 <Textbox>
                     <p>
