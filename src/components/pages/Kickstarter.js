@@ -41,7 +41,7 @@ function Kickstarter () {
                     </ol> <br />
                     <hr/> <br />
                     <p>
-                        For example, my descendent’s vitals were running low, so I took public transport to work today instead of driving my car, thus earning 329 energy units, which I can then use to send a care package to my descendant through the Pipeline to keep them alive and happy. 
+                        For example, my descendant’s vitals were running low, so I took public transport to work today instead of driving my car, thus earning 329 energy units, which I can then use to send a care package to my descendant through the Pipeline to keep them alive and happy. 
                         This action also earned me 500 life points (experience points), which leveled me up to level three and caused a tree to sprout in the future, providing habitat for animals to nest within. 
                         I gained access to more constructible items, including a workbench and waterpump, which will further improve my settlement and require more resources to craft.
                     </p> <br />

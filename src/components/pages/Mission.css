@@ -39,6 +39,7 @@ h1 {
     font-size: 6vh;
     text-align: center;
     line-height: 8vh;
+    text-shadow: 1px 1px #313131;
 }
 
 Strong {
@@ -51,6 +52,7 @@ Strong {
     font-weight: regular;
     font-size: 3vh;
     line-height: 4.5vh;
+    text-shadow: 1px 1px #534b17;
 }
 
 .page-container li {
@@ -59,6 +61,7 @@ Strong {
     font-size: 3vh;
     line-height: 4.5vh;
     margin-left: 4vw;
+    text-shadow: 1px 1px #534b17;
 }
 
 .mission-statement {
@@ -68,6 +71,7 @@ Strong {
     color: rgb(253, 241, 128);
     text-align: center;
     margin-bottom:-1.7vh;
+    text-shadow: 1px 1px #534b17;
 }
 
 @media only screen and (max-width: 900px) {

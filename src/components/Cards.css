@@ -121,6 +121,7 @@
     font-size: 18px;
     font-family: Jura, sans-serif;
     line-height: 24px;
+    text-shadow: 1px 1px #534b17;
   }
   
    /* These @media rules set different parameters for different sizes: */

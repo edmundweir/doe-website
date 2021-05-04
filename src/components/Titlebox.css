@@ -149,6 +149,7 @@ h2 {
     margin-top: -4px;
 
     background-image: none;
+    text-shadow: 1px 1px #534b17;
 }
 
 @media only screen and (max-width: 1024px) {
