@@ -15,7 +15,7 @@ function TheTeam () {
                 </Titlebox>
                 <Textbox>
                     <p>
-                    Descendants Of Earth is an international startup formed in 2019 and built from a team spanning Australia and the United States. <br /><br />
+                    Descendants Of Earth is an international startup formed in 2019 by a team from Australia and the United States. <br /><br />
                     </p> <br />
                     <center><h2>The Team</h2></center>
                     <p>

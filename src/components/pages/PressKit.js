@@ -3,7 +3,7 @@ import './PressKit.css';
 import '../../App.css';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
-import Logo from '../../images/DOE-Logo-v6-2.gif';
+import Logo from '../../images/DOE-Logo-v7-3.gif';
 import Background from '../../images/backgrounds/shot_greenlight_crop.png';
 
 function PressKit () {
@@ -37,7 +37,7 @@ function PressKit () {
                         The more resources players send to their descendants, the more their world improves. 
                     </p> <br />
                     <p>
-                        “We are running out of time to stop runaway climate change, but games are a perfect avenue for generating the knowledge and willpower needed to save our collective asses.” said co-founder Edmund Weir.
+                        “We are running out of time to stop runaway climate change, but games are a perfect avenue for generating the knowledge and willpower needed to turn our fate around.” said co-founder Edmund Weir.
                     </p> <br />
                     <p>
                         Entry into the game’s early access program is available as a reward on their Kickstarter. 
@@ -54,7 +54,7 @@ function PressKit () {
                         Of the two co-founders, Natalia Shafa is a marketing manager and sci-fi author from Seattle, USA, and Edmund Weir is an urban planner, environmentalist and software developer from Melbourne, Australia.
                     <br /> <br />
                         Since teaming up with Landing Site Studios (USA), the project has matured rapidly, with a full release expected for late 2021.                    
-                    </p> <br />
+                    </p> <br /> <br />
                     <h3 className="boilerplate">Press Contact:</h3>
                     <p>
                         Natalia Shafa <br />
