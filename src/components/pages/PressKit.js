@@ -3,7 +3,7 @@ import './PressKit.css';
 import '../../App.css';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
-import Logo from '../../images/DOE-Logo-v7-3.gif';
+import Logo from '../../images/DOE-Logo-v6-2.gif';
 import Background from '../../images/backgrounds/shot_greenlight_crop.png';
 
 function PressKit () {
