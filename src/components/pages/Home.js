@@ -2,7 +2,7 @@ import React from 'react';
 import '../../App.css';
 import './Home.css';
 import Background from '../../images/SatelliteEarth.gif';
-import Logo from '../../images/DOE-Logo-v6-2.gif';
+import Logo from '../../images/DOE-Logo-v7-3.gif';
 import Cards from '../Cards';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';

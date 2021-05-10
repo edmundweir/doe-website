@@ -3,7 +3,7 @@ import './PressKit.css';
 import '../../App.css';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
-import Logo from '../../images/DOE-Logo-v6-2.gif';
+import Logo from '../../images/DOE-Logo-v7-3.gif';
 import Background from '../../images/backgrounds/shot_greenlight_crop.png';
 
 function PressKit () {
@@ -16,7 +16,7 @@ function PressKit () {
                 </Titlebox>
                 <Textbox>
                     <p>
-                        <i>FOR EMBARGOED RELEASE: May 21, 2021.</i> 
+                        <i>FOR EMBARGOED RELEASE: June 5, 2021.</i> 
                     </p> <br /> <br />
                     <img className='hero-logo' src={Logo} alt='Descendants Of Earth' />
                     <br />
@@ -24,12 +24,12 @@ function PressKit () {
                     <h3 className="press-kit-subheading">Reshape Earth’s future with real action in new climate survival game</h3>
                     <br /> <br />
                     <p>
-                        <strong>MELBOURNE, May 21, 2021 - Descendants of Earth</strong> launched their Kickstarter campaign for a new game that is 400 years ahead of its time. 
+                        <strong>MELBOURNE, June 5, 2021 - Descendants of Earth</strong> launched their Kickstarter campaign for a new game that is 400 years ahead of its time. 
                         Using real climate action to progress a time-bending storyline, players experience how their actions change the future and compete to see whose actions have the biggest impact. 
                         Team up or play solo as you build a settlement strong enough to survive the wastelands in the year 2412.
                     </p> <br />
                     <p>
-                        “Descendants Of Earth is a new breed of social impact gaming, where enjoyment and immersion meet tangible outcomes for the player and the environment.” said co-founder Natalia Shafa.
+                        “Descendants Of Earth is a new breed of social impact gaming, where enjoyment and immersion meet tangible outcomes for the player and the environment,” said co-founder Natalia Shafa.
                     </p> <br />
                     <p>
                         To send resources into the future, players input completed climate actions into their phone. 
@@ -37,7 +37,7 @@ function PressKit () {
                         The more resources players send to their descendants, the more their world improves. 
                     </p> <br />
                     <p>
-                        “We are running out of time to stop runaway climate change, but games are a perfect avenue for generating the knowledge and willpower needed to turn our fate around.” said co-founder Edmund Weir.
+                        “We are running out of time to stop runaway climate change, but games are a perfect avenue for generating the knowledge and willpower needed to save ourselves and our planet,” said co-founder Edmund Weir.
                     </p> <br />
                     <p>
                         Entry into the game’s early access program is available as a reward on their Kickstarter. 
@@ -49,11 +49,10 @@ function PressKit () {
                     <br />
                     <h3 className="boilerplate">About Descendants Of Earth:</h3>
                     <p>
-                        Descendants Of Earth are an international startup formed in 2019, made up of team members from Australia and the United States. 
-                        They were formed on the principle that climate action needs to be exciting if we are to build a movement broad enough to face the challenges ahead. 
-                        Of the two co-founders, Natalia Shafa is a marketing manager and sci-fi author from Seattle, USA, and Edmund Weir is an urban planner, environmentalist and software developer from Melbourne, Australia.
-                    <br /> <br />
-                        Since teaming up with Landing Site Studios (USA), the project has matured rapidly, with a full release expected for late 2021.                    
+                        Descendants Of Earth is an international startup formed in 2019, made up of team members from Australia and the United States. 
+                        Their mission is to make environmental action fun and accessible in order to reach the critical mass of participation needed to prevent irreversible climate change and repair Earth’s ecosystems. 
+                        The co-founders are Natalia Shafa and Edmund Weir. Natalia hails from Seattle, USA, while Edmund is a Melbourne Native. 
+                        Since teaming up with Landing Site Studios (USA), the project has matured rapidly, with a full release expected for late 2021.                   
                     </p> <br /> <br />
                     <h3 className="boilerplate">Press Contact:</h3>
                     <p>
