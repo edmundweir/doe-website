@@ -32,8 +32,8 @@ function PressKit () {
                         “Descendants Of Earth is a new breed of social impact gaming, where enjoyment and immersion meet tangible outcomes for the player and the environment,” said co-founder Natalia Shafa.
                     </p> <br />
                     <p>
-                        To send resources into the future, players input completed climate actions into their phone. 
-                        Resources earned in-game are split into Energy, Water and Materials. 
+                        Help your descendants survive a climate-changed future by sending resources forward in time. 
+                        Earn resources by inputting completed climate actions into your phone. Resources earned in-game are split into Energy, Water and Materials. 
                         The more resources players send to their descendants, the more their world improves. 
                     </p> <br />
                     <p>
