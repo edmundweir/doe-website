@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.831d804d.chunk.css",
-    "main.js": "/static/js/main.cf25134d.chunk.js",
-    "main.js.map": "/static/js/main.cf25134d.chunk.js.map",
+    "main.js": "/static/js/main.a852c2d7.chunk.js",
+    "main.js.map": "/static/js/main.a852c2d7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1b62cb5e.js",
     "runtime-main.js.map": "/static/js/runtime-main.1b62cb5e.js.map",
     "static/js/2.a575e823.chunk.js": "/static/js/2.a575e823.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/DOE_Thumbnail.bcab96f4.png": "/static/media/DOE_Thumbnail.bcab96f4.png",
     "static/media/Google-Play-Rounded.3add8516.png": "/static/media/Google-Play-Rounded.3add8516.png",
     "static/media/Gumtree.d6bc4e3e.jpg": "/static/media/Gumtree.d6bc4e3e.jpg",
-    "static/media/Kickstarter-Promo.4f10072d.png": "/static/media/Kickstarter-Promo.4f10072d.png",
+    "static/media/Kickstarter_Promo.22fb4951.png": "/static/media/Kickstarter_Promo.22fb4951.png",
     "static/media/App.css": "/static/media/SatelliteEarth.e013daa9.gif",
     "static/media/Cards.css": "/static/media/Textbox2.a3daf8bf.png",
     "static/media/shot_aurora1_crop.15eb6196.png": "/static/media/shot_aurora1_crop.15eb6196.png",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.1b62cb5e.js",
     "static/js/2.a575e823.chunk.js",
     "static/css/main.831d804d.chunk.css",
-    "static/js/main.cf25134d.chunk.js"
+    "static/js/main.a852c2d7.chunk.js"
   ]
 }
