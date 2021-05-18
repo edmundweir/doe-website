@@ -4,7 +4,7 @@ import './Cards.css'
 import Thumbnail from '../images/DOE_Thumbnail.png';
 import GooglePlay from '../images/Google-Play-Rounded.png';
 import Trello from '../images/Apps-Trello-icon.png';
-import Kickstarter from '../images/Kickstarter-Promo.png';
+import Kickstarter from '../images/Kickstarter_Promo.png';
 
 function Cards() {
     return (
@@ -35,7 +35,7 @@ function Cards() {
                         />
                         <CardItem 
                             src={Kickstarter}
-                            text='Campaign launching this month!'
+                            text='Campaign launching June 5!'
                             label='Crowdfunding'
                             path='/kickstarter'
                         />
