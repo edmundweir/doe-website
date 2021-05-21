@@ -5,7 +5,11 @@ import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
 import Logo from '../../images/DOE-Logo-v7-3.gif';
 import LogoStatic from '../../images/DOE_Logo_May21.png';
-import Banner from '../../images/Samp0_Sunset_Logo.png';
+import Banner from '../../images/Sampo_PinkSunset2.png';
+import SampoSweet2 from '../../images/SampoSweet2.png';
+import SampoSweet3 from '../../images/SampoSweet3.png';
+import SampoSweet4 from '../../images/SampoSweet4.png';
+import Scientists4 from '../../images/Scientists4.png';
 import Background from '../../images/backgrounds/shot_greenlight_crop.png';
 
 function PressKit () {
@@ -70,7 +74,19 @@ function PressKit () {
                     <h1 className="press-kit-heading">Promotional Images</h1>
                     <img className='media-imgs' src={Banner} alt='Descendants Of Earth' />
                     <br /> <br />
+                    <img className='media-imgs' src={SampoSweet2} alt='Descendants Of Earth' />
+                    <br /><br />
+                    <img className='media-imgs' src={SampoSweet3} alt='Descendants Of Earth' />
+                    <br /><br />
+                    <img className='media-imgs' src={SampoSweet4} alt='Descendants Of Earth' />
+                    <br /> <br />
+                    <img className='media-imgs' src={Scientists4} alt='Descendants Of Earth' />
+                    <br /> <br />
                     <img className='media-imgs' src={LogoStatic} alt='Descendants Of Earth' />
+                    <br /><br />
+                    <p>
+                        Download our Press Kit for May 2021 <a href="https://www.fromsmash.com/DOE-PressKit-May2021" target="_blank">here.</a>
+                    </p>
                 </Textbox>      
             </div>        
         </>
