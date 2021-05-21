@@ -4,6 +4,8 @@ import '../../App.css';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
 import Logo from '../../images/DOE-Logo-v7-3.gif';
+import LogoStatic from '../../images/DOE_Logo_May21.png';
+import Banner from '../../images/Samp0_Sunset_Logo.png';
 import Background from '../../images/backgrounds/shot_greenlight_crop.png';
 
 function PressKit () {
@@ -61,7 +63,15 @@ function PressKit () {
                         <a href='https://www.DescendantsofEarth.com/' target='_blank'>https://www.DescendantsofEarth.com/</a> <br />
                         <a href='https://www.LandingSiteStudios.com/' target='_blank'>https://www.LandingSiteStudios.com/</a>
                     </p>
-                </Textbox>        
+                    
+                </Textbox>
+                <br />
+                <Textbox>
+                    <h1 className="press-kit-heading">Promotional Images</h1>
+                    <img className='media-imgs' src={Banner} alt='Descendants Of Earth' />
+                    <br /> <br />
+                    <img className='media-imgs' src={LogoStatic} alt='Descendants Of Earth' />
+                </Textbox>      
             </div>        
         </>
     )
