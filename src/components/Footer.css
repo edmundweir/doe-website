@@ -1,6 +1,6 @@
 .footer-container {
     background-color: #242424;
-    padding: 4rem 0 2rem 0;
+    padding: 2rem 0 2rem 0;
     /* flex container expands items to fill available free space or shrinks them to prevent overflow.*/
     display: flex;
     flex-direction: column;
@@ -77,12 +77,12 @@
 
 /* I'm not sure why he separated this from the above, as it doesn't seem to make a difference */
 .footer-link-items > h2 {
-    color: #fff;
+    color: #fdf180;
     font-weight: bolder;
 }
 
 .footer-link-items a {
-    color: #fff;
+    color: #fdf180;
     text-decoration: none;
     margin-bottom: 8px;
     font-family: 'Jura', sans-serif;
@@ -145,10 +145,11 @@
 .website-rights {
     color: #fff;
     margin-bottom: 16px;
+    font-size: 2vh;
 }
 
 .thumbnail-logo {
-    margin-top: 0;
+    margin-top: 2vh;
     padding-top: 0;
     height: 80px;
     width: 80px;
@@ -175,4 +176,12 @@
     .social-media-wrap {
         flex-direction: column;
     }
+}
+
+.top-button {
+    text-align: center;
+}
+
+.top-button:hover {
+    cursor: pointer;
 }

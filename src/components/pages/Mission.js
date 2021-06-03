@@ -3,6 +3,7 @@ import './Mission.css';
 import '../../App.css';
 import Textbox from '../Textbox';
 import Titlebox from '../Titlebox';
+import CustomFAQ from '../CustomFAQ';
 import Background from '../../images//backgrounds/shot_aurora1_crop.png';
 
 function Mission () {
@@ -39,6 +40,12 @@ function Mission () {
                         <li>Find the value of different environmental actions (in terms of energy, water and materials saved) so you can make educated decisions on how to use your time and resources most effectively to combat climate change.</li>
                         <li>Kick ass for the planet at scale and forge a sense of community while you do it by teaming up with mates new and old.</li>
                     </ul>
+                </Textbox>
+                
+                <Textbox>
+                    <h2>FAQ</h2>
+                    <br />
+                    <CustomFAQ />
                 </Textbox>          
             </div>        
         </>

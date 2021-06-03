@@ -22,7 +22,7 @@ function PressKit () {
                 </Titlebox>
                 <Textbox>
                     <p>
-                        <i>FOR EMBARGOED RELEASE: June 5, 2021.</i> 
+                        <i>FOR EMBARGOED RELEASE: June 12, 2021.</i> 
                     </p> <br /> <br />
                     <img className='hero-logo' src={Logo} alt='Descendants Of Earth' />
                     <br />
@@ -30,7 +30,7 @@ function PressKit () {
                     <h3 className="press-kit-subheading">Reshape Earth’s future with real action in new climate survival game</h3>
                     <br /> <br />
                     <p>
-                        <strong>MELBOURNE, June 5, 2021 - Descendants of Earth</strong> launched their Kickstarter campaign for a new game that is 400 years ahead of its time. 
+                        <strong>MELBOURNE, June 12, 2021 - Descendants of Earth</strong> launched their Kickstarter campaign for a new game that is 400 years ahead of its time. 
                         Using real climate action to progress a time-bending storyline, players experience how their actions change the future and compete to see whose actions have the biggest impact. 
                         Team up or play solo as you build a settlement strong enough to survive the wastelands in the year 2412.
                     </p> <br />
@@ -58,7 +58,7 @@ function PressKit () {
                         Descendants Of Earth is an international startup formed in 2019, made up of team members from Australia and the United States. 
                         Their mission is to make environmental action fun and accessible in order to reach the critical mass of participation needed to prevent irreversible climate change and repair Earth’s ecosystems. 
                         The co-founders are Natalia Shafa and Edmund Weir. Natalia hails from Seattle, USA, while Edmund is a Melbourne Native. 
-                        Since teaming up with Landing Site Studios (USA), the project has matured rapidly, with a full release expected for late 2021.                   
+                        Since teaming up with Landing Site Studios (USA), DOE has matured rapidly, with its release expected for late 2021.                   
                     </p> <br /> <br />
                     <h3 className="boilerplate">Press Contact:</h3>
                     <p>

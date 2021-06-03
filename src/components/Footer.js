@@ -1,15 +1,12 @@
 import React from 'react';
 import './Footer.css';
 import {Link} from 'react-router-dom';
-import Logo from '../images/DOE_Thumbnail.png';
+import Logo from '../images/DOE_Icon_Glowing_3.png';
+import Textbox from './Textbox';
 
 function Footer() {
     return (
         <div className='footer-container'>
-            <div class="ml-form-embed"
-                data-account="2999389:t0d2h5x4r6"
-                data-form="3753265:p7d3q7">
-            </div>
             <div className='footer-links'>
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
@@ -29,14 +26,6 @@ function Footer() {
             </div> 
             <section className='social-media'>
                 <div className='social-media-wrap'>
-                    <div className='footer-logo'>
-                        <Link onClick={scrollToTop} to='/' >
-                            <img className='thumbnail-logo' src={Logo} alt='Descendants Of Earth'/>
-                        </Link>
-                    </div>
-                    <small className='website-rights'>
-                        Copyright © Descendants Of Earth 2021
-                    </small>
                     {/*<div className='social-icons'>
                         <Link className='social-icon-link facebook' to='/' target='_blank' aria-label='Facebook'>
                             <i className='fab fa-facebook-f'/>
@@ -52,7 +41,23 @@ function Footer() {
                         </Link>
                     </div>*/}
                 </div>
-            </section>       
+            </section>
+
+            <div className='footer-logo'>
+                <Link onClick={scrollToTop} to='/' >
+                    <img className='thumbnail-logo' src={Logo} alt='Descendants Of Earth'/>
+                </Link>
+            </div>
+
+            <div>
+                    <p className='top-button' onClick={scrollToTop}>
+                        Back to top.
+                    </p>
+                    <br />
+                    <center><p className='website-rights'>
+                        Copyright © Descendants Of Earth 2021
+                    </p></center>
+            </div>       
         </div>
     )
 }

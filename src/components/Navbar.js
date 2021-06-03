@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
-import Thumbnail from '../images/DOE_Thumbnail.png';
+import Thumbnail from '../images/DOE_Icon_Glowing_3.png';
 
 function Navbar() {
     // i do not yet know hot to add comments inside a <> fragment
@@ -45,7 +45,7 @@ function Navbar() {
             <nav className='navbar'>
                 <div className='navbar-container'>
                     <Link to='/' className='navbar-logo' onClick={closeMobileMenu, scrollToTop}>
-                        <img className='logo-header' src={Thumbnail} alt='No Image' width='80' height='80'/>
+                        <img className='logo-header' src={Thumbnail} alt='No Image' width='120' height='120'/>
                     </Link>
 
                     <div className='menu-icon' onClick={handleClick}>

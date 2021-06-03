@@ -15,6 +15,7 @@ import TheTeam from './components/pages/TheTeam';
 import UpdatesNewWebsite from './components/pages/updates/NewWebsite';
 import UpdatesGooglePlay from './components/pages/updates/GooglePlay';
 import Footer from './components/Footer';
+import Textbox from './components/Textbox';
 
 function App() {
   
@@ -41,6 +42,12 @@ function App() {
             <Route path='/updates-new-website' component={UpdatesNewWebsite} />
             <Route path='/updates-google-play' component={UpdatesGooglePlay} />
           </Switch>
+          <Textbox width='30%'>
+                <div class="ml-form-embed"
+                data-account="2999389:t0d2h5x4r6"
+                data-form="4204165:v5y7r0">
+                </div>
+            </Textbox>
           <Footer />
         </Router>
     </div>

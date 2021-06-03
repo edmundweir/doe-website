@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../App.css';
 import './Home.css';
-import Background from '../../images/SatelliteEarth.gif';
+import Background from '../../images/backgrounds/shot_aurora1_crop.png';
 import Logo from '../../images/DOE-Logo-v7-3.gif';
 import Cards from '../Cards';
 import Textbox from '../Textbox';
