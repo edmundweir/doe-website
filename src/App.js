@@ -42,7 +42,7 @@ function App() {
             <Route path='/updates-new-website' component={UpdatesNewWebsite} />
             <Route path='/updates-google-play' component={UpdatesGooglePlay} />
           </Switch>
-          <Textbox width='30%'>
+          <Textbox>
                 <div class="ml-form-embed"
                 data-account="2999389:t0d2h5x4r6"
                 data-form="4204165:v5y7r0">
