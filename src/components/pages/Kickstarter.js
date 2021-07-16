@@ -27,7 +27,7 @@ function Kickstarter () {
                     <h2>Gameplay</h2>
                     <br />
                     <p>
-                    The core gameplay loop consists of: </p>
+                        The core gameplay loop consists of: </p>
                     <ol>
                         <li>
                         Finding an action that is achievable in real life from the lists provided within the game.
