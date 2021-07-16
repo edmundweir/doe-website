@@ -22,15 +22,15 @@ function PressKit () {
                 </Titlebox>
                 <Textbox>
                     <p>
-                        <i>FOR EMBARGOED RELEASE: June 12, 2021.</i> 
+                        <i>FOR EMBARGOED RELEASE: July 24, 2021.</i> 
                     </p> <br /> <br />
                     <img className='hero-logo' src={Logo} alt='Descendants Of Earth' />
                     <br />
-                    <h1 className="press-kit-heading">Play a game. Save the actual world. </h1>
-                    <h3 className="press-kit-subheading">Reshape Earth’s future with real action in new climate survival game</h3>
+                    <h1 className="press-kit-heading">Gamifying Real Action to Prevent A Climate Crisis</h1>
+                    <h3 className="press-kit-subheading">Reshape Earth’s future with real action in new climate survival mobile game</h3>
                     <br /> <br />
                     <p>
-                        <strong>MELBOURNE, June 12, 2021 - Descendants of Earth</strong> launched their Kickstarter campaign for a new game that is 400 years ahead of its time. 
+                        <strong>MELBOURNE, July 24, 2021 - Descendants of Earth</strong> launched their Kickstarter campaign for a new game that is 400 years ahead of its time. 
                         Using real climate action to progress a time-bending storyline, players experience how their actions change the future and compete to see whose actions have the biggest impact. 
                         Team up or play solo as you build a settlement strong enough to survive the wastelands in the year 2412.
                     </p> <br />
@@ -43,7 +43,8 @@ function PressKit () {
                         The more resources players send to their descendants, the more their world improves. 
                     </p> <br />
                     <p>
-                        “We are running out of time to stop runaway climate change, but games are a perfect avenue for generating the knowledge and willpower needed to save ourselves and our planet,” said co-founder Edmund Weir.
+                        “We are running out of time to stop runaway climate change, but games are perfect for generating the knowledge, 
+                        willpower and optimism needed to save ourselves and our planet,” said co-founder Edmund Weir.
                     </p> <br />
                     <p>
                         Entry into the game’s early access program is available as a reward on their Kickstarter. 
@@ -56,9 +57,10 @@ function PressKit () {
                     <h3 className="boilerplate">About Descendants Of Earth:</h3>
                     <p>
                         Descendants Of Earth is an international startup formed in 2019, made up of team members from Australia and the United States. 
-                        Their mission is to make environmental action fun and accessible in order to reach the critical mass of participation needed to prevent irreversible climate change and repair Earth’s ecosystems. 
-                        The co-founders are Natalia Shafa and Edmund Weir. Natalia hails from Seattle, USA, while Edmund is a Melbourne Native. 
-                        Since teaming up with Landing Site Studios (USA), DOE has matured rapidly, with its release expected for late 2021.                   
+                        Their mission is to make environmental action fun and accessible in order to reach the critical mass of participation needed to prevent irreversible climate change. 
+                        The game is co-founded by Natalia Shafa and Edmund Weir. Natalia hails from Seattle, USA, and is a marketing veteran and sci-fi author. 
+                        Edmund is an urban planner and game designer from Melbourne, Australia. 
+                        The project has teamed up with Landing Site Studios (USA), with a full release expected for early 2022.                   
                     </p> <br /> <br />
                     <h3 className="boilerplate">Press Contact:</h3>
                     <p>

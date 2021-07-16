@@ -15,7 +15,7 @@ function Kickstarter () {
                 </Titlebox>
                 <Textbox>
                     <p>
-                        In June 2021, we are launching a crowdfunding campaign on Kickstarter to raise capital for improvements to the game in the lead-up to our full launch in Q4 2021. 
+                        On July 24 2021, we are launching a crowdfunding campaign on Kickstarter to raise capital for improvements to the game in the lead-up to our full launch in Q4 2021. 
                         Crowdfunders can pay to reserve their profile name, access the alpha version, join our chatrooms and get limited edition merchandise.
                     </p> <br />
                     <p>
